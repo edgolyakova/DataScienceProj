@@ -1,0 +1,21 @@
+Kim Man Lui (雷剑文), also known as Kimman Lui, is an author of software engineering, and financial speculation books. He is the Chief Operations Officer of Marvel Web Services and a lecturer with the Hong Kong Polytechnic University. He has authored over 20 publications and written content for over 30 journals.Lui performed an experiment in pair programming which confirmed that "novice–novice pairs against novice solos" show greater productivity gains than "expert–expert pairs against expert solos" (i.e., novices have more to learn that experts).  His books challenge the status quo regarding the development of software and financial speculation.
+
+Personal background
+Kim Man Lui was born in Hong Kong and studied in Taiwan and South Africa. In 1992, Lui earned his bachelor's degree in engineering from Tamkang University and in 1995, he earned his master's degree from the University of the Witwatersrand in Johannesburg, South Africa. In 2006, he earned his doctorate from the Hong Kong Polytechnic University.
+
+Professional background
+Lui is the Chief Operations Officer of Marvel Web Services. He has additionally held a number of IT positions in the commercial sector of Hong Kong and China. He was involved in the setup of a software center that adopts agile development in China. In 2004, he was involved in the open source development of Miranda IM. From 2006 to 2008, he served as Assistant Professor at Hong Kong Polytechnic University. In 2007, he developed a metasearch engine, in which the results are displayed on a China map.Lui's research interests include software engineering and finance. He has published five software engineering books, including one focusing on Agile software development. While his books are generally written in Chinese, his book Software Development Rhythms was initially printed in English and later translated for Chinese readers. He provided translation for author Kent Beck and the second edition of his book, Extreme Programming Explained: Embrace Change.As of 2012, Lui latest publication is Truth Among Lies: Positive and Negative Cases of Technical Analysis, which focuses on stock market speculation in China. In this publication, he criticised other Chinese authors about their investment books, stating that they have misled the public in China. His criticism was ill-received and considered unprofessional, due to unspoken agreements not to challenge other authors.
+
+Published works
+BooksCMM: Software Development Process Management and Improvement, (CMM: Chinese: 软件过程的管理与改进) Tsinghua University Press, 2002. ISBN 978-7-302-05739-0 (in Chinese)
+Facts and Fictions in Extreme Programming Practices, (Chinese Title: Chinese: 超越传统的软件开发——极限编程的幻象与真实) Electronics Industry Publishing Company, 2005. ISBN 978-7-121-00657-9 (in Chinese)
+Software Development Rhythms, Wiley-Interscience, 2008. ISBN 978-0-470-07386-5 (in English)
+Software Development Rhythms, (Chinese Title:Chinese: 软件开发之韵) (Translated In Chinese by Yangyan et al.) Electronics Industry Publishing Company, 2010. ISBN 978-7-121-10816-7 (in Chinese)
+Truth Among Lies: Positive and Negative Cases of Technical Analysis, (Chinese Title:Chinese: 假中寻真:股票技术分析正反例) China Economic Publishing House, 2012. ISBN 978-7-5136-0345-4 (in Chinese)
+
+Translations
+Beck, Kent. Extreme Programming Explained: Embrace Change (2nd Edition) (Chinese Title: Chinese: 解析极限编程：拥抱变化 原书第2版), China Machine Press, 2011. ISBN 978-7-111-35795-7
+Beck, Kent. Extreme Programming Explained: Embrace Change (2nd Edition) (Chinese Title: Chinese: 解析极限编程 第二版 中英文对照), Electronics Industry Publishing Company, 2006. ISBN 978-7-121-02529-7
+
+
+== References ==

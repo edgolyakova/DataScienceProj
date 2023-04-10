@@ -1,0 +1,41 @@
+Hary Gunarto is an Indonesian computer engineer and scientist, writer, researcher and professor emeritus at Ritsumeikan Asia Pacific University in Japan who is recognized for his research and major publications ranging from computer network, computer programming/computer simulation and applications of ICT (digital media technology) in business and social science. One of his books on information technology presented to help Indonesian-Malay speaking people (Indonesia, Malaysia, Singapore, and Brunei) and to serve the needs for common understanding of new and specific computer terms appeared in most ICT-related information and Internet news in those countries. In the field of factory and manufacturing computer networks his research contributions in particular were in the development and simulation of prioritized system of messages' protocol which were great importance to interrupt and quickly response to any urgent/dangerous messages coming from factory robots or from security measuring devices/sensors. Commonly recognized as Prioritized Token Bus Protocol (IEEE 802.4), its features are crucial not only to Flexible manufacturing system and CIM (Computer-integrated manufacturing) but also to current technology of smart Internet of Things networks.
+
+Biography
+Hary Gunarto was born in 1954 in Solo, Indonesia. He graduated from Gadjah Mada University in 1978 with a bachelor's degree in Physics. He completed his master's in electrical engineering in 1984 from University of Wisconsin-Madison, and achieved his doctorate in 1988 from Washington State University. He worked in academia, as lecturer at Washington State University, Department of Electrical and Computer Engineering from 1988 to 1989, and as faculty member at Gadjah Mada University in 1989–2007, and then at Ritsumeikan Asia Pacific University, Japan 2007 – 2020. At Ritsumeikan APU Univ., he developed computer programming (courses) curriculum for Business and Social Science students (who did and didn't have math background knowledge), where he became a full professor.
+Gunarto was considerable important and instrumental in developing the first nationwide Library automation Systems known as Pusyandi-Net connecting 50 university libraries in Indonesia (1991–1994). He also went on to become the chair of Research and Development in the Computer Center at Gadjah Mada University in Yogyakarta. Gunarto also spent time as head of Electronic and Instrumentation Lab. and also involved on various national and university committee for scientific research, education and community services. He was a research affiliate in the ICTP Trieste, Italy, a UNESCO-supported research center dedicated to enhancing research activities for scientists in developing countries. With partial support and funding from ICTP, he led summer school program for ASEAN scientists, and organized Asia Pacific Faraday Meeting in 1991. 
+Gunarto was visiting professor at KFUPM (Saudi Arabia) and also at AKAMIGAS, State-owned oil company training center in Cepu, East Java. In 1994, Hary Gunarto was assigned to initiate the development of Master program of computer science department at Gadjah Mada University. Later at Ritsumeikan APU Univ., Prof. Gunarto also contributed actively on several committee members and involved in the development of challenging ICT major of undergraduate program in the College of Asia Pacific Studies (Social Studies) at Ritsumeikan Asia Pacific University in 2007.
+
+Honors and awards
+SUPERSEMAR Fellowship recipient, Gadjah Mada University, 1975–1978.
+Academic Excellence, Faculty of Science & Math, Gadjah Mada Univ. 1978.
+Outstanding Researcher, University of Gadjah Mada, Indonesia, 1990.
+Excellent Teaching Awards from Ministry of Education & Culture, Indonesia, 1990.
+Satyalancana Karya Satya, Academic Service Awards, President Republic of Indonesia in 1999.
+Professor Emeritus at Ritsumeikan APU University, Japan in 2020.
+
+Works
+Hankel Matrix Problems in the Airplane Control Systems, Research report to Boeing Airplane Company, Seattle, USA, 1986–1988 (Hary Gunarto & Chin S. Hsu, Washington State Univ, USA).
+Simulation of Factory Communication Protocols. Hary Gunarto and Paul Chiang, Transactions: The Best paper of 1987.
+An Industrial FMS Communications Protocol, Hary Gunarto and Paul Chiang, Sixth Annual International Phoenix Conference on Computers and Communications, Scottsdale, Arizona, US, February 1987, pp. 531 – 535.
+An Industrial FMS Communication Protocol: Analytical Analysis. Hary Gunarto and Paul Chiang.
+Indonesian Archipelagic N-2001 Data Super Highway, Hary Gunarto, ICTP/UNESCO and ITU Workshop on Radio Communications, Trieste, Italy, 22 January 1998.
+Security and Ethical Concerns on the Internet, Hary Gunarto, Journal of Ritsumeikan Studies in Language and Culture. Vol. 15, No.1. Kyoto, June 2003, pp. 71–76.
+Digital Preservation of Borobudur World Heritage and Cultural Treasures. Hary Gunarto.
+Digital Preservation of Cultural World Heritage Sites. Hary Gunarto, Guest speaker at AGORAsia Teleconference, UNESCO, Jakarta, Indonesia, 12 December 2011.
+Japan Ministry of Education (Monbusho) Research Project: Design and Implementation of Synchronous Communication Technique for Japanese Language Class Support, Joint Research 2006 – 2009.
+Apps-based Machine Translation on Smart Media Devices – A Review, Hary Gunarto.
+
+Books
+An Industrial FMS Communication Protocol, Hary Gunarto, UMI Ann Arbor-Michigan, 1988. Also in Google book and Proquest.
+Simulasi dalam Fisika, Hary Gunarto, Yogyakarta, PPs UGM, 1993.
+Visual Basic for Information Processing (book sections), Li Yan, Hary Gunarto & Y Lee, Bunrindo Pub. Co, Japan, 2000.
+Introduction to Web Design Programming for E-Business and E-Commerce, Andi Offset Pub., Yogyakarta, 2003.
+Introduction to C++.Net and C#.Net with Simple Data Processing, Andi Publisher, 2004.
+Introduction to Visual Basic.Net Programming.
+Collected Computer Programming Problems in Visual C#.Net, Hary Gunarto.
+Glossary of IT and Computer Terms: English-Indonesian-Malay, Tiara Wacana Publication, Yogyakarta, 2017.
+Parametric & Non-parametric Data Analysis for Social Research: IBM SPSS,  Hary Gunarto, 2019.
+
+References
+External links
+Gunarto's Glossary of Information Technology Terms, www.gunarto.org

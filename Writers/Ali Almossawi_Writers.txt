@@ -1,0 +1,29 @@
+Ali Almossawi (born December 1, 1984) is a San Francisco-based author of books on critical thinking and computer science education, and the creator of An Illustrated Book of Bad Arguments. He is also  a principal engineer at Apple, and was formerly a data visualization engineer at Mozilla. He has stated that his day job helps his writing by constraining his time.
+
+Education
+He graduated from the University of East Anglia with a Bachelor of Science in Computer Systems Engineering in 2005 and holds a Master of Science in Software Engineering from Carnegie Mellon University and a Master of Science in Engineering and Management from the Massachusetts Institute of Technology.
+
+Illustrated books
+Almossawi published the first edition of An Illustrated Book of Bad Arguments in July 2013, by sharing it online for free and supporting the project with donations and sales of a print edition. In December 2013, the book was acquired by Experiment Books who released a second edition in September 2014.Volunteers have translated the book into twelve languages and the book's website has been visited by 2.6 million visitors. The book has appeared in print in Russian, Italian, Korean, Slovak, French, Simplified Chinese, Complex Chinese, and Brazilian Portuguese.
+In 2016, Almossawi announced that his second book Bad Choices, an introduction to computer science, had been acquired by Penguin Random House and was to be published the following year. He also shared that it was to be translated into Japanese, Simplified Chinese, Korean, Complex Chinese, Russian, and Turkish.
+Internet pioneer Vint Cerf described the book as "one of the more clever ways of introducing computational thinking to the general public" and MIT Media Lab professor and physicist  Cesar Hidalgo described it as "perfect for anyone wanting to understand the basics of Computer Science."
+
+Data visualization
+Almossawi's data visualization work has received press coverage. The Firefox Hardware Report, which he codeveloped while at Mozilla, was covered by Engadget and SD Times. His visualization of the Big Five US publishers and their imprints was featured on Tor and shared over 5,000 times on Facebook. His visualization of the education level of world leaders has received over 47,000 visits and was among 20 great visualizations of 2012. In 2015, Almossawi gave his only recorded talk on the practice of data visualization at Google's San Francisco office.
+
+Personal life
+As of 2012, Almossawi lives in San Francisco, California with his wife and daughter. He has stated that he identifies with humanist values.
+
+Publications
+Publications by Almossawi
+An Illustrated Book of Bad Arguments. Experiment Books. 2014. ISBN 978-0989931205.
+Bad Choices. United States: Viking. 2017. ISBN 978-0735222120.
+Bad Choices. United Kingdom: John Murray. 2017. ISBN 978-1473650763.
+
+Publications with contributions by Almossawi
+"Visualizing ambiguity in an era of data abundance and very large software systems" by Almossawi in New challenges for data design. London, UK: Springer, 2015. ISBN 978-1-4471-6595-8.
+"Don’t Just Teach Kids How to Code, Teach Them Algorithms, Too" by Almossawi in Bright.
+
+References
+External links
+Official website

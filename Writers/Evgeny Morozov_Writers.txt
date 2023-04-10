@@ -1,0 +1,38 @@
+Evgeny Morozov (Russian: Eвге́ний Моро́зов; Belarusian: Яўгені Марозаў; born in 1984) is an American writer, researcher, and intellectual from Belarus who studies political and social implications of technology. He was named one of the 28 most influential Europeans by Politico in 2018.
+
+Life and career
+Morozov was born in 1984 in Soligorsk, Belarus. He attended the American University in Bulgaria and later lived in Berlin before moving to the United States.
+Morozov has been a visiting scholar at Stanford University, a fellow at the New America Foundation, and a contributing editor of and blogger for Foreign Policy magazine, for which he wrote the blog Net Effect. He has previously been a Yahoo! fellow at Georgetown University's Walsh School of Foreign Service, a fellow at the Open Society Institute, director of new media at the NGO Transitions Online, and a columnist for the Russian newspaper Akzia. In 2009, he was chosen as a TED Fellow where he spoke about how the Web influences civic engagement and regime stability in authoritarian, closed societies or in countries "in transition".Morozov's writings have appeared in various newspapers and magazines around the world, including The New York Times, The Wall Street Journal, Financial Times, The Economist, The Guardian, The New Yorker, New Scientist, The New Republic, Corriere della Sera, Times Literary Supplement, Newsweek International, International Herald Tribune, Boston Review, Slate, San Francisco Chronicle, Folha de S.Paulo, and Frankfurter Allgemeine Zeitung.As of 2013, Morozov pursued a PhD in the history of science from Harvard, which he obtained in May 2018. He regularly holds lectures in the framework of university programs, cultural centres, and has developed teaching and mentorship activities.
+
+Thought
+Morozov expresses skepticism about the popular view that the Internet is helping to democratize authoritarian regimes, arguing that it could also be a powerful tool for engaging in mass surveillance, political repression, and spreading nationalist and extremist propaganda. He has also criticized what he calls "The Internet Freedom Agenda" of the US government and finds it naïve and even counterproductive to the very goal of promoting democracy through the Web.Later in his career, however, Morozov began to express doubts about the project of technology criticism itself, calling it politically vague and impotent to effectuate change.
+
+The Net Delusion: The Dark Side of Internet Freedom
+In January 2011, Morozov published his first book The Net Delusion: The Dark Side of Internet Freedom (ISBN 978-1-58648874-1). In addition to exploring the impact of the Internet on authoritarian states, the book investigates the intellectual sources of the growing excitement about the liberating potential of the Internet and links it to the triumphalism that followed the end of the Cold War. Morozov also argues against the ideas of cyber-utopianism (the inability to see the Internet's "darker" side, that is, the capabilities for information control and manipulation of new media space) and Internet-centrism, the growing propensity to view all political and social change through the prism of the Internet.
+
+To Save Everything, Click Here: The Folly of Technological Solutionism
+In March 2013, Morozov published a second book, To Save Everything, Click Here (ISBN 1-61039138-1). Morozov criticizes what he calls "technology solutionism," the idea that, as Tim Wu put it, "a little magic dust can fix any problem". However, Wu, whose own work is severely criticized by Morozov, dismisses Morozov's book as "rife with such bullying and unfair attacks that seem mainly designed to build Morozov's particular brand of trollism", and "a missed opportunity" to discuss the issues. Morozov believes that technology should be debated alongside debates about politics, economics, history, and culture.
+About Internet libertarians, Morozov told The New Yorker:They want to be "open", they want to be "disruptive", they want to "innovate". The open agenda is, in many ways, the opposite of equality and justice. They think anything that helps you to bypass institutions is, by default, empowering or liberating. You might not be able to pay for health care or your insurance, but if you have an app on your phone that alerts you to the fact that you need to exercise more, or you aren't eating healthily enough, they think they are solving the problem.
+Morozov has also been criticized by those who are sympathetic to his broader project for failing to provide evidence for his claims beyond stating anecdotes.
+
+The Syllabus
+In September 2019, Morozov founded The Syllabus.Working on the idea that “The good content is already here; it’s just not evenly distributed”, The Syllabus monitors thousands of video channels, podcasts, magazines, newspapers, academic journals, and other digital repositories.
+Then, machine learning aggregates content based on a score, which an algorithm automatically assigns to each piece. In this way, it collects, analyzes, and classifies relevant information.The Syllabus publishes a weekly newsletter and personalized recommendations for its subscribers. It then makes the previously indexed pieces available to subscribers in a searchable archive.
+
+Selected bibliography
+Books
+Morozov, Evgeny (January 2011). The Net Delusion: the Dark Side of Internet Freedom. New York, USA: PublicAffairs. ISBN 978-1-58648-874-1.  Hardback edition.
+Morozov, Evgeny (March 2013). To Save Everything, Click Here: the Folly of Technological Solutionism. New York, USA: PublicAffairs. ISBN 978-1-61039-138-2.  Hardback edition.
+Morozov, Evgeny. Freedom as a Service: The New Digital Feudalism and the Future of the City. New York, USA: Farrar, Straus and Giroux. ISBN 978-0374280284. Retrieved April 18, 2022. Hardback edition.
+
+Essays and reporting
+Morozov, Evgeny (October 28, 2013). "Only disconnect : two cheers for boredom". A Critic at Large. The New Yorker. Vol. 89, no. 34. pp. 33–37.
+
+See also
+Epochalism
+Technological utopianism
+
+References
+External links
+
+Official website

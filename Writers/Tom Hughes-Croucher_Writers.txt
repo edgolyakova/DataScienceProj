@@ -1,0 +1,13 @@
+Tom Hughes-Croucher is a British Internet programmer, entrepreneur, author, and public speaker. He's worked for and with numerous well known brands, including Walmart, Yahoo!, NASA, MySpace, Joyent, Tesco, Three Telecom, and UK Channel 4. He has been the acting Chief Technology Officer for Change.org since November 2012.
+
+Early life
+Tom Hughes-Croucher was born on 29 October 1981 to David Crocher and Hazel Croucher. He grew up in Worksop, UK.
+
+Education and career
+Croucher attended Worksop College in north Nottinghamshire before earning his Bachelor of Science in 2005 from the University of Sunderland and was ranked first in his class. After Graduating from the University of Sutherland he joined Yahoo as a front end engineer. In 2009 he joined Joyent as a Technical Evanglist.
+
+Publications
+Tom coauthored "Node: Up and Running: Scalable Server-Side Code with JavaScript," with Mike Wilson.
+
+
+== References ==

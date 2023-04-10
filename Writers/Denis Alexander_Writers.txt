@@ -1,0 +1,57 @@
+Dr. Denis Alexander has spent 40 years in the biomedical research community. He is an Emeritus Fellow of St. Edmund’s College, Cambridge and an Emeritus Director of the Faraday Institute for Science and Religion, Cambridge which he co-founded with Bob White in 2006.
+
+Scientific work
+Alexander was an Open Scholar at St Peter's College, Oxford, where he studied Biochemistry under the late Arthur Peacocke. He studied for a PhD in Neurochemistry at the Institute of Psychiatry, where he analysed the molecular structure of the sodium-potassium pump.
+He spent 15 years in various university departments and laboratories outside the United Kingdom (1971-1986), including a post at Hacettepe University (1972-1974) and the Middle East Technical University (1974-1980) in Ankara, Turkey, where he set up a neurochemistry laboratory in the newly formed Biological Sciences Department. From 1981-1986 he held the post of Associate Professor of Biochemistry at the American University of Beirut Medical Centre, Lebanon, where he helped to establish the National Unit of Human Genetics. This entailed establishing a new research laboratory in medical genetics and the first prenatal diagnostic clinic in the Arab World. Discoveries during this era included a novel mutation which affected lysosomal enzyme processing and the identification and characterisation of several rare genetic diseases. At a symposium at the American University of Beirut Medical Center on ‘Genetic Diseases in Lebanon’ held in April 1985, Alexander reported that “over 50 highly specialised tests are performed in the unit’s laboratories, making them the leading laboratories in the whole Arab World”. Alexander and his family were evacuated three times from West Beirut, the first time following the Israeli invasion of the Lebanon in June 1982, the second time following intensive fighting that broke out amongst armed factions in March 1984, and the third and final time following Reagan’s bombing of Libya in April 1986 which led to retaliation against the few westerners still residing in West Beirut. The Alexander family left West Beirut the same week that John McCarthy and Brian Keenan were kidnapped.
+Upon return to the UK Alexander switched research fields and obtained a post at the Imperial Cancer Research Laboratories in London (now Cancer Research UK) (1986-1989) where he developed a new research programme on protein phosphatases in T cells. Following this Alexander became Project Leader at The Babraham Institute, Cambridge (1989-2008) where he subsequently headed the Molecular Immunology Programme and established the Laboratory of Lymphocyte Signalling and Development. Research focused on the role of Protein tyrosine phosphatases in lymphocyte signalling, development, activation and oncology. This led to a series of publications on CD45 (also known as PTPRC), on SHP-2 (also known as PTPN11), on the use of therapeutic monoclonal antibodies, and on the discovery of a novel signaling pathway utilizing intracellular alkalinisation following DNA damage implicated in the development of cancer.
+During his time at The Babraham Institute, Alexander served on the Babraham Executive Committee from 1997-2006 and was elected a Fellow of St Edmund's College, Cambridge, in 1997.
+
+Science and religion
+Alexander has written on the subject of science and religion since at least 1972, when his book 'Beyond Science', written at the age of 25/26, was reviewed by Hugh Montefiore, then Bishop of Kingston upon Thames in the New Scientist.
+In the late 1980s he became a member of the National Committee of Christians in Science [www.cis.org.uk] and served on the Committee until 2013. In 1992 he became editor of the journal Science and Christian Belief, a post he held until 2013. Alexander served on the Executive Committee of the International Society for Science and Religion and is a member of the Cambridge Papers Writing Group for which he writes papers related to science and religion.
+In January 2006 Alexander became the founding Director of the Faraday Institute for Science and Religion which was originally founded as part of St Edmund's College, Cambridge, and launched with a grant from the John Templeton Foundation. Alexander co-founded the Institute with Bob White. The Institute carries out research on science and religion, runs courses, and engages in academic dissemination on the topic through seminars, lectures, panel discussions and in schools. In October 2012 Alexander became Emeritus Director and is now Chair of the Board of Trustees of the Institute. In December 2012 Alexander gave the Gifford Lectures at St Andrews University on the theme "Genes, Determinism and God". Alexander writes and lectures widely on science and religion. His book Rebuilding the Matrix – Science and Faith in the 21st Century was published in 2002. Alexander is well-known for his critique of creationism and of "intelligent design".Alexander engages in the public understanding of science and religion. This includes articles published on web-sites such as Nature, The Guardian and The Huffington Post. TV programmes such as David Malone's Testing God documentary for Channel 4, Rod Liddle’s Channel 4 programme The Trouble with Atheism and a series of interviews for the US "Closer to Truth" TV series, together with numerous radio discussions and interviews, such as his interview with Joan Bakewell in her BBC series "Belief", on Australian national radio, and radio debates with Stephen Law and P.Z. Myers. In 2018 Alexander spoke in favour of the motion "This House Believes that Science Alone Can Never Answer our Biggest Questions" at an Oxford Union debate.
+
+Selected Scientific Publications
+Ogilvy, S., Louis-Dit-Sully, C., Cassady, R.L., Alexander, D.R. and Holmes, N. (2003) J.Immunol. 171:1792-1800. 'Either of the CD45RB and CD45R0 isoforms are effective in restoring T cell, but not B cell, development and function in CD45-null mice'.
+Turner S.D., Tooze R., Maclennan K, and Alexander D.R. (2003) Oncogene 22: 7750-61 'Vav-promoter regulated oncogenic fusion protein NPM-ALK in transgenic mice causes B-cell lymphomas with hyperactive Jun Kinase'.
+Zhao, R., Yang, F.-T., and Alexander, D.R. (2004). Cancer Cell, 5: 37-49. 'An oncogenic tyrosine kinase inhibits DNA repair and DNA damage-induced Bcl-xL deamidation in T cell transformation'.
+Alexander, D.R. (2004) Cell Cycle 3: 584-7 'Oncogenic tyrosine kinases, DNA repair and survival'.
+Alexander, D.R. (2005) 'Biological validation of the CD45 tyrosine phosphatase as a pharmaceutical target” in L.A.Pinna and P.W.Cohen (eds) 'Handbook of Experimental Pharmacology', Springer.
+Turner, S.D. and Alexander, D.R. (2005) Leukaemia 7: 1128-1134. 'What have we learnt from mouse models of NPM-ALK induced lymphomagenesis?'
+Elliott, J.I., Surprenant, A., Marelli-Berg, F.M., Cooper, J.C., Cassady-Cain, R.L., Wooding, C., Linton, K., Alexander, D.R. and Higgins, C.F. (2005). Nat. Cell. Biol. 7: 808-816. 'Membrane phosphatidylserine distribution as a non-apoptotic signaling mechanism in lymphocytes'.
+Salmond, R.J., Huyer, G., Kotsoni, A., Clements, L. and Alexander, D.R. (2005) J. Immunol. 2005, 175: 6498-6508. 'The src Homology 2 Domain-Containing Tyrosine Phosphatase 2 Regulates Primary T-Dependent Immune Responses and Th Cell Differentiation'.
+Turner S.D. and Alexander, D.R. (2006). Leukemia 20: 572-82. 'Fusion Tyrosine Kinase Mediated Signalling Pathways in the Transformation of Haematopoietic Cells'.
+Zhao,, R., Oxley, D., Smith, T.S., Follows, G.A., Green, A.R. and Alexander, D.R. (2007) Plos Biology, doi:10.1371/journal.pbio.0050001. 'DNA Damage-induced Bcl-xL Deamidation is Mediated by NHE-1 Antiport Regulated Intracellular pH'.
+McNeill, L. Salmond, R.J. Cooper, J.C., Carret, C.K., Cassady-Cain, R.L., Roche-Molina, M., Tandon, P., Holmes, N. and Alexander, D.R. (2007) Immunity 27: 425-437. 'The differential regulation by CD45 of Lck kinase phosphorylation sites is critical for TCR signalling thresholds'.
+Rider, D.A., Havenith, C.E.G., de Ridder, R., Schuurman, J., Favre, C., Cooper, J.C., Walker, S., Baadsgaard, O., Marschner, S., van de Winkel, J.G.J., Cambier, J., Parren, P.W.H.I. and Alexander, D.R. (2007) Cancer Res. 67: 9945-9953. 'A human CD4 monoclonal antibody for the treatment of T cell lymphoma combines inhibition of T cell signaling by a dual mechanism with potent Fc-dependent effector activity'.
+Zhao, R., Follows, G.A., Beer, P.A., Scott, L.M., Huntly, B.J.P, Green, A.R. and Alexander, D.R. (2008). New England J. Medicine, 359: 2778-2789. 'Inhibition of the Bcl-xL deamidation pathway in myeloproliferative disorders'.
+
+Selected Scientific Publications
+Beyond Science (1972), Oxford: Lion Publishing, ISBN 0745951414.
+Rebuilding the Matrix - Science and Faith in the 21st Century (2001), Lion Publishing, Oxford, UK, ISBN 978-0-7459-1244-8.
+Beyond Belief: Science, Faith and Ethical Challenges with Bob White (2004), Lion Publishing, Oxford, UK, ISBN 978-0-7459-5141-6. Published in USA as Science, Faith, and Ethics: Grid or Gridlock (2006), Denis Alexander & Robert S. White, Hendrickson, ISBN 978-1-59856-018-3.
+Can We Be Sure About Anything?: Science, Faith and Postmodernism (ed, 2005), Apollos, Nottingham, UK, ISBN 978-1-84474-076-5.
+Creation or Evolution: Do We Have to Choose? (2008), Monarch, Oxford, UK, ISBN 978-1-85424-746-9. Second Edition 2014.
+Rescuing Darwin - God and Evolution in Britain Today (2009), Theos Nick Spencer and Denis Alexander ISBN 978-0-9554453-5-4.
+Biology and Ideology from Descartes to Dawkins (2010), University of Chicago Press, ISBN 978-0-226-60841-9 - Denis R. Alexander and Ronald L. Numbers (editors).
+The Language of Genetics – an Introduction (2011), Templeton Foundation Press, ISBN 978-1-59947-343-7.
+ Genes, Determinism and God (2017), Cambridge University Press.  [The Gifford Lectures]. ISBN 978-1316506387.
+Is There Purpose in Biology? (2018) Oxford: Monarch Press. ISBN 978-0857217141.
+Are We Slaves to our Genes? (2020) Cambridge University Press. ISBN 978-1108426336.
+
+References
+Closer to Truth videos by Denis Alexander Archived 25 March 2014 at the Wayback Machine
+Gifford Lectures given December 2012
+Does Evolution have any Religious Significance?
+The Historical Background to the Science-Religion Debate
+‘God and Darwin’, panel discussion chaired by Denis Alexander
+Lecture at Baylor University 2010: ‘"The Dawkins Delusion: Debunking the Conflict Between Science and Religion,"
+Pascal Lectures, University of Waterloo, 2008/9: ‘Rescuing Darwin’ and ‘Is Darwinism Incompatible With Purpose?’
+Lecture given at AAAS, Washington, Dec 2012: ‘Are We Only Our Genes?’
+Lecture given in Adelaide, Australia, 2011 ‘Creation or Evolution – Do We Have to Choose?’
+Lecture given at Newcastle University, ‘Darwin, Ideology and God’ Archived 3 March 2016 at the Wayback Machine
+Gregory Lecture at St.Andrews University, 2008, ‘Has Science Made Religion Redundant?’
+‘The Dawkins Delusion’, Yale University, 2007 Archived 12 October 2013 at the Wayback Machine
+Lecture at National University of Malaysia
+New College Lectures, University of New South Wales, 2018, ‘Genetics, God and the Future of Humanity’
+Oral History, British Science, British Library. Life Story Interview.
