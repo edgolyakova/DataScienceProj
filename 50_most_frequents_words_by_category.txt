@@ -1,0 +1,6 @@
+The 50 most frequents word of the subcategory "Astronauts" :
+['space', 'from', 'with', 'mission', 'flight', 'nasa', 'astronaut', 'first', 'that', 'soyuz', 'station', 'cosmonaut', 'crew', 'after', 'russian', 'also', 'during', 'training', 'university', 'pilot', 'which', 'were', 'born', 'shuttle', 'school', 'this', 'soviet', 'science', 'force', 'international', 'hours', 'research', 'expedition', 'served', 'time', 'became', 'aboard', 'earth', 'career', 'center', 'they', 'medal', 'selected', 'april', 'october', 'test', 'life', 'order', 'september', 'program']
+
+The 50 most frequents word of the subcategory "Writers" :
+['with', 'that', 'from', 'university', 'also', 'which', 'published', 'first', 'book', 'life', 'were', 'born', 'after', 'women', 'been', 'film', 'references', 'works', 'this', 'writer', 'books', 'novel', 'international', 'school', 'world', 'years', 'wrote', 'award', 'about', 'literature', 'where', 'their', 'prize', 'english', 'isbn', 'national', 'they', 'during', 'other', 'work', 'literary', 'author', 'career', 'member', 'became', 'later', 'time', 'into', 'many', 'have']
+

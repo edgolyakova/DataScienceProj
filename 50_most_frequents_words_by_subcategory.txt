@@ -1,0 +1,345 @@
+The 50 most frequents word of the subcategory "American astronauts" :
+['space', 'from', 'nasa', 'with', 'mission', 'astronaut', 'flight', 'that', 'shuttle', 'university', 'first', 'bezos', 'science', 'crew', 'also', 'during', 'which', 'american', 'station', 'were', 'after', 'school', 'pilot', 'force', 'served', 'hours', 'ride', 'this', 'center', 'research', 'training', 'test', 'program', 'degree', 'born', 'astronauts', 'engineering', 'time', 'career', 'they', 'became', 'national', 'received', 'international', 'earth', 'member', 'united', 'life', 'would', 'states']
+
+The 50 most frequents word of the subcategory "Russian cosmonauts" :
+['space', 'from', 'cosmonaut', 'russian', 'soyuz', 'gagarin', 'with', 'flight', 'expedition', 'station', 'spacewalk', 'during', 'training', 'crew', 'after', 'first', 'hours', 'also', 'that', 'they', 'spacecraft', 'module', 'engineer', 'minutes', 'were', 'soviet', 'march', 'april', 'mission', 'days', 'pilot', 'commander', 'born', 'earth', 'aboard', 'nasa', 'october', 'yuri', 'which', 'served', 'force', 'usachov', 'career', 'performed', 'time', 'astronaut', 'international', 'returned', 'school', 'installed']
+
+The 50 most frequents word of the subcategory "German astronauts" :
+['space', 'astronaut', 'mission', 'german', 'european', 'germany', 'maurer', 'university', 'station', 'with', 'from', 'team', 'training', 'schlegel', 'selected', 'international', 'after', 'west', 'soyuz', 'flew', 'part', 'corps', 'second', 'doctorate', '2008', 'first', 'agency', 'born', 'became', 'spacelab', 'nasa', 'biography', 'external', 'february', 'links', 'matthias', 'expedition', 'cologne', 'columbus', 'centre', 'isbn', 'shuttle', 'astronauts', 'missions', 'hans', 'references', 'honorary', 'reiter', 'heike', 'walpot']
+
+The 50 most frequents word of the subcategory "Soviet cosmonauts" :
+['space', 'soviet', 'cosmonaut', 'soyuz', 'with', 'russian', 'from', 'flight', 'order', 'mission', 'first', 'that', 'pilot', 'crew', 'union', 'ussr', 'medal', 'station', 'this', 'hero', 'after', 'training', 'were', 'commander', 'days', 'during', 'born', 'time', 'salyut', 'also', 'moscow', 'cosmonauts', 'became', 'they', 'force', 'school', 'research', 'aboard', 'earth', 'flew', 'october', 'which', 'hours', 'atkov', 'krikalev', 'december', 'lenin', 'belyayev', 'march', 'republic']
+
+The 50 most frequents word of the subcategory "Ukrainian cosmonauts" :
+['space', 'from', 'ukraine', 'flight', 'ukrainian', 'popovich', 'soviet', 'with', '2018', 'september', 'first', 'kadenyuk', 'training', 'president', 'january', 'state', 'russian', 'retrieved', 'columbia', 'that', 'leonid', 'spacecraft', 'russia', 'during', 'каденюк', 'became', 'pustovyi', 'cosmonaut', 'cosmonauts', 'mission', 'pilot', 'between', 'force', 'were', 'soyuz', 'military', 'scientific', 'union', 'national', 'center', 'astronauts', 'test', 'isbn', '1998', 'forces', 'research', 'encyclopedia', 'astronaut', 'school', 'aircraft']
+
+The 50 most frequents word of the subcategory "Belgian astronauts" :
+['winne', 'space', 'from', 'belgian', 'european', 'astronaut', 'university', 'belgium', 'frimout', 'first', 'mission', 'experiments', 'with', 'test', 'doctorate', 'force', 'royal', 'officer', 'aboard', 'training', 'order', 'ghent', 'flight', 'during', 'honorary', 'agency', 'pilot', 'station', 'crew', 'school', 'member', 'expedition', 'after', 'this', 'april', '1992', 'nasa', 'over', 'international', 'soyuz', 'degree', 'frank', 'atmospheric', 'microgravity', 'flying', 'research', 'responsible', 'viscount', 'sciences', 'senior']
+
+The 50 most frequents word of the subcategory "Hungarian astronauts" :
+['farkas', 'hungarian', 'space', 'cosmonaut', 'bertalan', 'soviet', 'from', 'military', 'kubasov', 'astronaut', 'györgy', 'born', 'biography', 'hungary', 'graduated', 'attended', 'first', 'international', 'election', '1980', 'life', 'after', 'rank', 'union', 'also', 'simonyi', 'parliamentary', 'paid', 'order', 'part', 'orbits', 'party', 'person', 'orbit', 'personal', 'next', 'only', 'magyari', 'károly', 'landing', 'launched', 'lazarus', 'links', 'loves', 'married', 'often', 'materials', 'member', 'minutes', 'mission']
+
+The 50 most frequents word of the subcategory "British astronauts" :
+['space', 'british', 'with', 'from', 'first', 'satellite', 'sharman', 'peake', 'government', 'that', 'foale', 'astronaut', 'shuttleworth', 'launched', 'mission', 'station', 'programme', 'born', 'this', 'were', 'school', 'after', 'international', 'nasa', 'agency', 'soyuz', 'project', 'other', 'united', 'helen', 'which', 'named', 'satellites', 'year', 'aboard', 'during', 'south', 'also', 'kingdom', 'been', 'launch', 'million', 'later', 'european', 'television', 'development', 'would', 'isbn', 'have', 'became']
+
+The 50 most frequents word of the subcategory "Kazakhstani cosmonauts" :
+['aimbetov', 'cosmonaut', 'space', 'kazakhstan', '2015', 'from', 'kazakh', 'mission', 'with', 'station', 'soyuz', 'school', 'military', 'along', 'september', 'after', 'withdrawn', 'айдын', 'returning', 'born', 'national', '2009', 'capsule', 'career', 'rookie', 'returned', 'having', 'international', 'russia', 'commander', 'projected', 'first', 'been', 'launch', 'aimakhanov', 'selected', 'sergey', 'backup', 'aboard', 'tma-18', 'astronaut', 'astana', 'andreas', 'mogensen', 'aidyn', 'russian', 'scheduled', 'satoshi', 'secondary', 'secure']
+
+The 50 most frequents word of the subcategory "Swedish astronauts" :
+['fuglesang', 'mission', 'space', 'with', 'astronaut', 'from', 'training', 'stockholm', 'crew', 'spacewalks', 'swedish', 'nasa', 'first', 'station', 'soyuz', 'during', 'institute', 'selected', 'three', 'royal', 'time', 'also', 'which', 'russian', 'sts-116', 'specialist', 'became', 'performed', 'center', 'december', 'operations', 'technology', 'tspk', 'cern', 'physics', 'university', 'european', 'record', 'fellow', 'experiment', 'international', 'sts-128', 'euromir', 'frisbee', 'year', 'world', 'sweden', 'spacewalk', 'worked', 'flight']
+
+The 50 most frequents word of the subcategory "Afghan cosmonauts" :
+['momand', 'space', 'afghan', 'ahad', 'abdul', 'first', 'crew', 'mission', 'soyuz', 'became', 'cosmonaut', 'after', 'president', 'afghanistan', 'force', 'during', 'dawran', 'soviet', 'mohmand', 'there', 'returned', 'this', 'outer', 'only', 'pashto', 'citizen', 'higher', 'tm-5', 'astronauts', 'september', 'language', '1988', 'najibullah', 'also', 'with', 'lyakhov', 'were', 'fifth', 'school', 'part', 'born', 'request', 'german', 'into', 'sent', 'called', 'candidate', 'held', 'pilot', 'while']
+
+The 50 most frequents word of the subcategory "Lithuanian astronauts" :
+['pilot', 'ussr', 'with', 'soviet', 'su-27', 'stankevičius', 'space', 'cosmonaut', 'salgareda', '1990', 'from', 'buran', 'soyuz', 'test', 'lithuanian', 'crash', 'september', 'school', 'during', 'fighter', 'programme', 'show', '1969', 'july', 'three', 'shuttle', 'january', 'yeliseyev', 'rimantas', 'before', 'italy', 'first', 'aleksei', 'flew', 'flight', 'after', 'korolev', 'people', 'last', 'lenin', 'lithuania', 'killed', 'since', 'medal', 'died', 'hero', 'name', 'kamchatsky', 'seattle', 'engineer']
+
+The 50 most frequents word of the subcategory "Spanish astronauts" :
+['duque', 'space', 'minister', 'university', 'science', 'pedro', 'astronaut', 'madrid', 'honoris', '2020', '2019', 'from', 'doctor', 'spain', 'spanish', 'european', 'causa', 'agency', 'first', 'being', 'biography', 'also', 'named', '2011', 'operations', 'aeronautical', 'that', 'after', 'sánchez', 'confirmed', 'contribution', 'deimos', 'with', 'until', 'during', 'education', 'training', 'february', 'october', 'federation', 'school', 'government', 'russian', '1986', 'responsibility', 'international', 'position', 'merit', 'mission', 'company']
+
+The 50 most frequents word of the subcategory "Canadian astronauts" :
+['space', 'canadian', 'from', 'university', 'with', 'astronaut', 'hadfield', 'canada', 'payette', 'mission', 'garneau', 'science', 'that', 'first', '2017', 'station', 'williams', '2013', 'international', 'served', 'october', 'also', 'thirsk', 'after', 'nasa', 'research', 'flight', 'college', 'training', 'royal', 'military', 'during', 'life', 'january', 'order', 'general', 'governor', 'agency', 'ontario', 'toronto', 'crew', 'doctor', '2021', 'announced', 'shuttle', 'engineering', 'party', 'school', 'member', 'selected']
+
+The 50 most frequents word of the subcategory "Japanese astronauts" :
+['space', 'flight', 'crew', 'first', 'noguchi', 'japanese', 'akiyama', 'station', 'from', 'astronaut', 'with', 'aboard', 'which', 'training', 'expedition', 'maezawa', 'mission', 'december', 'shuttle', 'soyuz', 'japan', 'kanai', 'also', 'were', 'million', 'jaxa', 'sts-114', 'assigned', 'international', 'after', 'tokyo', 'nasa', 'days', 'that', '2021', 'during', 'launched', 'earth', 'astronauts', 'following', 'since', 'career', 'medical', 'launch', 'later', 'returned', 'announced', 'became', '2011', 'june']
+
+The 50 most frequents word of the subcategory "Chinese astronauts" :
+['space', 'nasa', 'from', 'lindgren', 'with', 'crew', 'astronaut', 'also', 'mission', 'expedition', 'soyuz', 'earth', 'training', 'science', '2015', 'flight', 'station', 'international', 'university', 'first', 'that', 'chinese', 'american', 'this', 'where', 'october', 'asteroids', 'center', 'which', 'later', 'astronauts', 'card', 'both', 'foundation', 'alongside', '2007', 'part', 'kjell', 'spacecraft', 'randi', 'commander', 'launched', 'cosmonaut', 'work', 'b612', 'spacewalk', 'june', 'backup', 'cards', 'bagpipes']
+
+The 50 most frequents word of the subcategory "Emirati astronauts" :
+['space', 'mansoori', 'first', 'astronaut', 'mission', 'soyuz', 'from', 'sultan', 'neyadi', 'mansouri', 'mohammed', 'united', 'rashid', 'arab', 'aboard', 'astronauts', 'selected', 'would', 'training', 'emirates', '2019', 'with', 'centre', 'launched', 'following', 'september', 'went', 'through', 'announced', 'hazza', 'emirati', 'mbrsc', 'that', 'ms-15', 'school', 'pilot', 'zayed', 'russian', 'after', 'hazzaa', 'become', 'october', 'three', 'ovchinin', 'expedition', 'college', 'before', 'represent', 'international', 'time']
+
+The 50 most frequents word of the subcategory "Czechoslovak cosmonauts" :
+['were', 'vladimír', 'pelčák', 'czech', '1943', 'remek', 'neither', 'november', 'oldřich', 'radio', 'references', 'selected', 'remka', 'military', 'soviets', 'soyuz', 'they', 'zlín', 'mission', 'links', '1976', 'czechoslovakia', 'academy', 'americans', 'backup', 'born', 'cosmonaut', 'cosmonauts', 'engineer', 'letu', 'external', 'first', 'force', 'from', 'gagarin', 'graduated', 'čtvrtstoletí']
+
+The 50 most frequents word of the subcategory "Saudi Arabian astronauts" :
+['saudi', 'space', 'sultan', 'medal', 'king', 'salman', '1987', 'university', '1985', 'first', 'arab', 'saud', 'tourism', 'presented', 'award', 'class', 'arabia', 'commission', 'riyadh', 'republic', 'mission', 'recognition', 'from', 'prince', 'kuwait', 'order', 'december', 'also', 'state', 'international', 'rank', 'chairman', 'june', 'kingdom', 'born', 'organization', 'specialist', 'daughter', 'heritage', 'sash', 'middle', 'flight', 'with', '2014', 'force', 'east', 'served', 'degree', 'abdulaziz', 'faisal']
+
+The 50 most frequents word of the subcategory "South African astronauts" :
+['shuttleworth', 'south', 'space', 'first', 'canonical', 'ubuntu', 'with', '2004', 'flight', 'million', 'african', 'from', 'africa', 'mark', 'capital', 'world', 'melvill', 'that', 'rutan', 'scaled', 'spaceshipone', 'took', 'company', 'composites', 'venture', 'pilot', 'this', 'september', 'school', 'became', 'free', 'then', 'original', 'through', 'june', 'operating', 'charge', 'commercial', 'life', 'born', 'year', 'court', 'debian', 'linux', 'spaceflight', 'private', 'soyuz', 'project', 'software', 'silber']
+
+The 50 most frequents word of the subcategory "Italian astronauts" :
+['space', 'mission', 'italian', 'astronaut', 'nespoli', 'from', 'cristoforetti', 'with', 'european', 'first', 'agency', 'expedition', 'nasa', 'which', 'international', 'during', 'aerospace', 'medical', 'station', 'university', 'force', '2015', 'rome', 'paolo', 'that', 'flight', 'june', 'italy', 'hours', 'medicine', 'crew', 'been', 'soyuz', 'also', 'pilot', 'russian', 'experiments', '2022', 'participated', 'july', 'shuttle', 'spacecraft', 'cheli', 'program', 'specialist', 'aboard', '2011', '2017', 'biography', 'second']
+
+The 50 most frequents word of the subcategory "South Korean astronauts" :
+['institute', 'space', 'university', 'korean', 'national', '2008', 'school', 'seoul', 'biography', 'born', 'tide', 'technology', 'high', 'research', 'public', 'started', 'john', 'government', 'from', 'science', 'russia', 'russian', 'finalists', 'kennedy', 'april', 'yeon', 'working', 'korea', 'after', 'astronaut', 'training', 'protocol', 'researcher', 'nationality', 'program', 'reversed', 'returning', 'october', 'open', 'opened', 'printers', 'over', 'pass', 'replacement', 'references', 'performance', 'policy', 'province', '1976', 'south']
+
+The 50 most frequents word of the subcategory "Kyrgyzstani cosmonauts" :
+['sharipov', 'space', 'from', 'cosmonaut', 'spacewalk', 'russian', 'chiao', 'kyrgyz', 'with', 'astronaut', 'hours', 'conducted', 'crew', 'also', '1998', 'during', 'leroy', 'soyuz', 'spacecraft', 'docking', 'pilot', 'satellite', 'training', 'career', 'expedition', 'sts-89', 'experiment', 'republic', '2005', 'flight', 'pirs', 'earth', 'they', 'became', 'develop', 'days', 'spacewalkers', 'born', 'called', 'station', 'small', 'force', 'outside', 'test', 'medal', 'mission', 'uzbek', 'minutes', '1992', 'january']
+
+The 50 most frequents word of the subcategory "Dutch astronauts" :
+['berg', 'kuipers', 'space', 'growth', 'astronaut', 'crystal', 'netherlands', 'dutch', 'from', 'mission', 'earth', 'experiments', 'with', 'would', 'soyuz', 'october', 'nasa', '2011', 'born', 'became', 'first', 'detectors', 'eg&g', 'returned', 'december', 'science', 'after', 'selected', 'lodewijk', 'april', 'that', 'expedition', '2004', 'experiment', 'technology', 'flight', 'citizen', 'university', '2012', 'when', 'corporation', 'challenger', 'crystals', 'their', 'launch', 'july', 'crew', 'part', 'they', 'later']
+
+The 50 most frequents word of the subcategory "Czech cosmonauts and astronauts" :
+['were', 'vladimír', 'pelčák', 'czech', '1943', 'remek', 'neither', 'november', 'oldřich', 'radio', 'references', 'selected', 'remka', 'military', 'soviets', 'soyuz', 'they', 'zlín', 'mission', 'links', '1976', 'czechoslovakia', 'academy', 'americans', 'backup', 'born', 'cosmonaut', 'cosmonauts', 'engineer', 'letu', 'external', 'first', 'force', 'from', 'gagarin', 'graduated', 'čtvrtstoletí']
+
+The 50 most frequents word of the subcategory "Austrian astronauts" :
+['space', 'with', 'viehböck', 'soyuz', 'became', 'mission', 'together', 'franz', 'after', 'austrian', 'cosmonauts', 'project', 'austromir', 'station', 'from', 'technology', 'over', 'born', 'tm-12', 'tm-13', 'site', 'years', 'rockwell', 'austria', 'october', 'astronauts', 'vienna', 'aboard', 'lower', '1991', 'nasa', 'returned', 'resides', 'references', 'mike', 'randolph', 'name', 'public', 'official', 'physics', 'only', 'nationality', 'parents', 'notes', 'other', 'orbit', 'numerous', 'returning', 'national', 'spaceport']
+
+The 50 most frequents word of the subcategory "Costa Rican astronauts" :
+['chang', 'díaz', 'nasa', 'space', 'rocket', 'with', 'astronaut', 'costa', 'born', 'franklin', 'technology', 'american', 'also', 'high', 'propulsion', 'massachusetts', 'from', 'ramón', 'member', 'sonia', 'december', 'center', 'plasma', 'rica', 'career', 'environmental', 'electrical', 'fame', 'education', 'earned', 'father', 'where', 'during', 'directors', 'degree', 'development', 'which', 'former', 'daughters', 'cummins', 'whom', 'connecticut', 'company', 'citizen', 'first', 'school', 'university', 'united', 'selected', 'rican']
+
+The 50 most frequents word of the subcategory "Danish astronauts" :
+['mogensen', 'space', 'mission', 'european', 'with', 'pilot', 'september', 'astronaut', 'engineer', 'worked', 'first', 'from', 'international', 'iriss', 'andreas', 'training', 'rugby', 'danish', 'received', 'school', 'november', 'spacex', '2015', 'copenhagen', 'program', 'also', 'nasa', 'engineering', 'career', 'astronauts', 'university', 'texas', 'other', 'portugal', 'selected', 'control', 'corps', 'crew', 'surrey', 'biography', 'serve', 'soyuz', 'degree', 'huginn', 'born', 'station', 'spacecraft', 'called', 'become', 'lisbon']
+
+The 50 most frequents word of the subcategory "Brazilian astronauts" :
+['space', 'pontes', 'brazilian', 'marcos', 'with', 'brazil', 'after', 'that', 'astronaut', 'from', 'international', 'which', 'paulo', 'agency', 'government', 'station', 'first', '2006', 'bolsonaro', 'minister', 'portuguese', 'force', 'also', 'about', 'technology', 'science', 'program', 'military', 'mission', 'nasa', 'institute', 'march', 'october', 'president', 'missão', 'national', 'aeronautics', 'became', 'inpe', 'august', 'travel', 'april', 'into', 'investigation', 'isbn', 'flight', 'when', 'federal', 'training', 'archived']
+
+The 50 most frequents word of the subcategory "Vietnamese astronauts" :
+['space', 'vietnamese', 'trinh', 'research', 'nasa', 'american', 'physical', 'shuttle', 'with', 'from', 'science', 'degree', 'physics', 'biological', 'born', 'received', 'sts-50', 'paris', 'payload', 'scientific', 'states', 'specialist', 'france', 'first', 'sciences', 'director', 'division', 'years', 'experimental', 'when', 'masters', 'aboard', 'program', 'phạm', 'applied', 'asian', 'university', 'united', 'tuân', 'philosophy', 'propulsion', 'permitting', 'national', 'performed', 'peer', 'parents', 'moved', 'mission', 'microgravity', 'michelet']
+
+The 50 most frequents word of the subcategory "Bulgarian cosmonauts" :
+['aleksandrov', 'bulgarian', 'space', 'cosmonaut', 'soyuz', 'station', 'soviet', 'georgi', 'research', '1988', 'mission', 'ivanov', 'with', 'along', 'order', 'crew', 'first', 'bulgaria', 'december', 'selection', 'selected', 'june', 'salyut', 'flight', 'force', 'program', 'hero', 'pilot', '1951', 'panayotov', 'reach', 'second', 'class', 'became', 'aboard', 'academy', 'union', 'tm-5', 'born', 'biography', 'viktor', 'process', 'prime', 'planina', 'space.aleksandrov', 'people', 'part', 'semifinalists', 'parachute', 'works']
+
+The 50 most frequents word of the subcategory "Australian astronauts" :
+['space', 'australia', 'power', 'australian', 'with', 'scully', 'navy', 'first', 'nasa', 'united', 'science', 'naval', 'technology', 'oceanography', 'center', 'from', 'states', 'university', 'group', 'sensing', 'government', 'association', 'mission', 'that', 'aviation', 'american', 'sydney', 'earth', 'remote', 'royal', 'which', 'member', 'college', 'technical', 'society', 'systems', 'served', 'crew', 'underwater', 'national', 'chairman', 'life', 'paul', 'distinguished', 'industry', 'oceanographic', 'research', 'over', 'order', 'international']
+
+The 50 most frequents word of the subcategory "Slovak cosmonauts" :
+['bella', 'military', 'cosmonaut', 'slovak', 'february', 'training', 'mission', 'ivan', '1999', 'space', 'fulier', 'from', 'soyuz', 'tm-29', 'spaceflight', 'colonel', 'force', 'slovakia', 'experiments', 'station', 'gagarin', 'graduated', 'pilot', 'košice', 'career', 'march', 'biography', 'along', 'academy', 'with', 'base', '1998', 'performed', 'quails', 'viktor', 'week', 'possibility', 'position', 'well', 'while', 'pierre', 'subsequently', 'participated', 'rank', 'over', 'officer', 'moscow', 'moravia', 'year.bella', 'yuri']
+
+The 50 most frequents word of the subcategory "Indian astronauts" :
+['malhotra', 'force', 'indian', 'space', 'india', 'soviet', 'from', 'program', 'sharma', 'with', 'mission', 'after', 'later', 'into', 'training', 'other', 'over', 'delhi', 'career', 'time', 'this', 'that', 'first', 'during', 'soyuz', 'near', 'including', 'cadets', 'pakistan', '1984', 'family', 'test', 'aircraft', 'bangalore', 'aerospace', 'also', 'were', 'base', 'lahore', 'selected', 'officer', 'calcutta', 'would', 'early', 'russian', 'union', 'retirement', 'station', 'flying', 'sorties']
+
+The 50 most frequents word of the subcategory "Polish astronauts" :
+['polish', 'cosmonaut', 'jankowski', 'zenon', 'mirosław', 'spacefacts', 'soyuz', 'selected', 'retired', 'poznań', 'poland', 'pilot', 'november', 'mission', '1937', '1978', 'http://www.spacefacts.de/bios/international/english/jankowski_zenon.htm', 'hermaszewski', 'external', 'colonel', 'child', 'born', 'biography', 'backup', 'army', 'links']
+
+The 50 most frequents word of the subcategory "Iranian astronauts" :
+['space', 'ansari', 'with', 'iranian', 'that', 'from', 'anousheh', 'flag', 'also', 'women', 'russian', 'award', 'station', 'first', 'prize', '2006', 'flight', 'spaceflight', 'telecom', 'iran', 'september', 'their', 'international', 'university', 'said', 'they', 'science', 'george', 'technology', 'soyuz', 'received', 'foundation', 'national', 'including', 'honor', 'became', 'countries', 'opportunities', 'tourist', 'sonus', 'husband', 'prodea', 'family', 'tourists', 'film', 'interview', 'farhadi', 'persian', 'company', 'texas']
+
+The 50 most frequents word of the subcategory "Swiss astronauts" :
+['space', 'from', 'mission', 'astronaut', 'nicollier', 'first', 'swiss', 'which', 'nasa', 'shuttle', 'lausanne', 'spaceflight', 'sts-61', 'society', 'specialist', '1994', 'hours', 'aboard', 'during', 'pilot', 'born', 'hubble', 'school', 'called', 'office', 'astronomy', 'member', 'medal', 'became', 'sts-103', '2007', '1992', 'university', 'european', 'telescope', 'sts-46', 'full', 'deployed', 'this', 'claude', 'biography', 'assigned', 'international', 'geneva', 'final', 'missions', 'branch', '1996', 'time', 'four']
+
+The 50 most frequents word of the subcategory "Soviet writers" :
+['soviet', 'azerbaijan', 'years', 'books', 'agish', 'alibekov', 'writer', 'life', 'union', 'bashkir', '1927', 'vaksberg', 'isbn', 'such', 'jamil', 'novel', 'began', 'worked', 'born', '1944', 'sagit', 'four', 'from', 'position', 'references', 'translated', 'russian', 'city', 'fuzuli', 'səsi', 'responsible', 'that', 'countries', 'pedagogical', 'television', 'december', 'three', 'some', 'first', 'into', 'district', 'films', 'playwright', 'stories', 'film', 'dərviş', 'programs', 'favorite', 'moscow', 'state']
+
+The 50 most frequents word of the subcategory "South African writers" :
+['that', 'climate', 'gregory', 'mandela', 'with', 'change', 'from', 'convergence', 'global', 'this', 'contraction', 'meyer', 'music', 'officer', 'goodbye', 'aubrey', 'prison', 'award', 'force', 'prize', 'james', 'after', 'bafana', 'ballet', 'royal', 'have', 'world', 'commons', 'nelson', 'years', 'there', 'principle', 'policy', 'very', 'london', 'institute', 'would', 'time', 'then', 'sampson', 'said', 'been', 'emissions', 'think', 'developed', 'composition', 'film', 'also', 'squadron', 'agenda']
+
+The 50 most frequents word of the subcategory "Argentine writers" :
+['international', 'kohen', 'marcelo', 'general', 'series', 'secretary', 'institute', 'university', 'from', 'states', 'nations', 'disputes', 'library', 'audiovisual', 'settlement', 'territorial', 'united', 'lecture', 'institut', 'dispute', 'also', 'been', 'represented', 'legal', 'including', 'studies', 'droit', 'least', 'development', 'lectures', 'peace', 'obtained', 'spanish', 'argentina', 'several', 'that', 'since', 'elected', 'professor', 'academy', '1997', 'french', 'born', 'given', 'graduate', 'conference', 'court', 'contestée', 'investment', 'costa']
+
+The 50 most frequents word of the subcategory "Japanese writers" :
+['fukuoka', 'farming', 'with', 'japanese', 'that', 'natural', 'isbn', 'japan', 'from', 'self', 'university', 'defense', 'screenplay', 'araya', 'special', 'published', 'world', 'into', 'english', 'design', 'research', 'nature', 'tokyo', 'which', 'year', 'some', 'morita', 'worked', 'also', 'series', 'forces', 'kiddy', 'ground', 'composition', 'masanobu', 'life', 'family', 'farm', 'returned', 'such', 'school', 'agricultural', 'during', 'shizen', 'author', 'kakumei', 'seeds', 'takashi', 'group', 'grade']
+
+The 50 most frequents word of the subcategory "Norwegian writers" :
+['chess', 'jonathan', 'tisdall', 'norwegian', 'isbn', '1965', 'aftenposten', '1997', 'dikt', '1966', 'born', 'rating', 'games', 'sang', 'japanese', 'journalist', 'irish', 'oslo', 'profile', 'poet', 'player', 'people', 'recent', 'record', 'party', 'parliamentary', 'newspaper', 'origin', 'often', 'nygaards', 'mother', 'march', 'major', 'magazines', 'mads', 'longtime', 'links', 'liberal', 'later', 'language', 'july', 'references', '1879479029', 'reflekser', 'tournament', 'york', 'years', 'yasser', 'written', 'works']
+
+The 50 most frequents word of the subcategory "Iranian writers" :
+['parsi', 'iran', 'that', 'iranian', 'book', 'hamzavi', 'delijani', 'policy', 'with', 'trita', 'israel', 'university', 'foreign', 'between', 'sahar', 'affairs', 'united', 'international', 'national', 'american', 'relations', 'from', 'retrieved', '2022', 'middle', 'council', 'alliance', 'published', 'east', 'states', 'this', 'abdol', 'issn', 'tree', 'hossein', '2012', 'been', 'books', '2013', 'jacaranda', 'persian', 'moved', 'world', 'born', 'treacherous', 'niac', 'author', 'political', 'institute', 'strategic']
+
+The 50 most frequents word of the subcategory "British writers" :
+['with', 'theatre', 'london', 'that', 'about', 'from', 'world', 'also', 'prize', 'british', 'isbn', 'books', 'university', 'ereira', 'gardner', 'book', 'cunnington', 'becker', 'which', 'award', 'author', 'first', 'writer', 'alan', 'english', 'donnelly', 'cornell', 'life', 'published', 'born', 'they', 'film', 'terry', 'jones', 'their', 'translation', 'references', 'wrote', 'society', 'this', 'director', 'authors', 'documentary', 'years', 'collection', 'costume', 'brooke', 'series', 'cambridge', 'have']
+
+The 50 most frequents word of the subcategory "Indonesian writers" :
+['poetry', 'jakarta', 'festival', 'puisi', 'noer', '2001', 'pinurbo', 'arifin', 'published', 'also', '2002', 'award', 'indonesian', 'best', 'pustaka', 'various', 'isbn', 'kibaran', 'sarung', 'joko', 'bawah', 'magazine', 'international', 'gramedia', 'work', '1995', 'penghargaan', 'literary', 'from', 'lontar', 'including', 'such', 'awards', 'indonesia', 'literature', 'works', 'terbaik', 'film', 'celana', 'yogyakarta', 'winternachten', 'been', 'poems', 'tempo', 'selected', 'indonesiatera', 'solo', 'sastra', 'arts', 'writing']
+
+The 50 most frequents word of the subcategory "Serbian writers" :
+['serbian', 'damjanović', 'from', 'that', 'aritmetika', 'with', 'literature', 'language', 'vernacular', 'library', 'janković', 'belgrade', 'vučković', 'well', 'wrote', 'municipal', 'obradović', 'literary', 'rajić', 'references', 'orfelin', 'into', 'judge', 'jovan', 'senator', 'hungarian', 'herzegovina', 'habsburg', 'bosnia', 'german', 'empire', 'dositej', 'school', 'crucified', 'sombor', 'serbia', 'stories', 'used', 'were', '1918', 'writer', 'europe', 'have', 'their', 'then', 'this', 'italian', 'title', 'written', 'influence']
+
+The 50 most frequents word of the subcategory "English writers" :
+['with', 'london', 'radio', 'from', 'podcast', 'zaltzman', 'book', 'show', 'including', 'first', 'writer', 'award', 'life', '2020', 'british', 'that', 'published', 'phillips', 'english', 'wrote', 'this', 'behan', 'hobhouse', 'collection', 'live', 'john', 'which', '2013', '2016', 'works', 'best', 'became', 'pyne', 'henry', 'history', 'stories', 'time', 'awards', 'william', 'courtie', 'appeared', '2015', 'congregational', 'titian', 'james', 'also', 'references', 'guardian', 'royal', 'television']
+
+The 50 most frequents word of the subcategory "Republic of the Congo writers" :
+['1947–2005', '1969', 'moved', 'native', 'paris', 'pensée', 'press', 'published', 'references', 'republic', 'sons', 'tchichelle', 'three', 'universelle', 'vanity', 'where', 'which', 'with', 'writer', 'lived', 'life', 'jeannette', 'congo', '1989', 'about', 'balou', 'book', 'born', 'brazzaville', 'coeur', 'congolese', 'homesickness', 'country', 'exil', 'exile', 'expressed', 'france', 'french', 'heart', 'wrote']
+
+The 50 most frequents word of the subcategory "Singaporean writers" :
+['singapore', 'with', 'ghani', 'from', 'university', 'abdul', 'member', 'also', 'theatreworks', 'award', 'that', 'plays', 'arts', 'been', 'machine', 'board', 'play', 'staged', 'hamid', 'malay', 'global', 'which', 'theatre', 'first', 'best', 'financial', 'this', 'fund', 'isbn', 'world', 'drama', 'after', 'writing', 'education', 'tarn', 'public', 'advisory', 'young', 'times', 'career', 'soul', '2002', 'seni', 'singaporean', 'ultimate', 'review', 'july', 'lady', 'company', 'committee']
+
+The 50 most frequents word of the subcategory "Moroccan writers" :
+['moroccan', 'morocco', 'from', 'history', 'islamic', 'with', 'university', 'arab', 'arabic', 'between', 'international', 'academy', 'also', 'member', 'novel', 'monjib', 'studies', 'that', 'journey', 'kingdom', 'world', 'since', 'ambassador', 'diplomatic', 'translation', 'political', 'then', 'language', 'english', 'works', 'relations', 'volumes', 'annotations', 'high', 'professor', 'institute', 'manuscript', 'author', 'which', 'investigation', 'muhammad', 'this', 'novels', 'after', 'ahmed', 'references', 'rabat', 'education', 'books', 'tazi']
+
+The 50 most frequents word of the subcategory "Albanian writers" :
+['elbasan', 'script', 'from', 'todhri', 'haxhifilipi', 'albanian', 'also', 'shvarc', 'first', 'according', 'alphabet', 'robert', 'teacher', 'known', 'albania', 'german', 'voskopojë', 'invented', 'life', 'awarded', 'hahn', 'greek', 'dated', 'dhaskal', 'written', 'tirana', 'academy', 'school', 'translated', 'theodor', 'honor', 'there', 'this', 'title', 'translations', 'family', 'elsie', 'until', 'voskopoja', 'works', 'cursive', 'jakov', 'that', 'language', 'text', 'testament', 'local', 'master', 'mother', 'older']
+
+The 50 most frequents word of the subcategory "Slovak writers" :
+['novomeský', 'slovak', 'party', 'communist', 'became', 'national', 'with', 'husák', 'czechoslovakia', 'from', 'slovakia', 'member', 'after', 'later', 'also', '1970', 'left', 'czechoslovak', 'political', 'which', 'bratislava', 'prague', 'line', 'moved', 'members', 'congress', 'central', 'prison', 'against', 'politician', 'committee', 'together', 'clementis', 'uprising', 'club', 'where', 'group', 'joined', 'worked', 'july', 'wrote', '1963', '1971', 'socialist', 'hand', 'gustav', 'press', 'institute', 'seven', 'same']
+
+The 50 most frequents word of the subcategory "Australian writers" :
+['that', 'australia', 'megee', 'gallop', 'with', 'from', 'australian', 'been', 'film', 'government', 'there', 'state', 'western', 'education', 'later', 'alan', 'rugg', 'also', 'university', 'labor', 'sydney', 'said', 'which', 'awards', 'azar', 'they', 'first', 'were', 'year', 'writing', '2006', 'where', 'premier', 'director', '2011', 'shokoofeh', 'elected', 'when', 'prize', 'council', 'life', 'during', 'after', 'reform', 'born', 'station', 'international', 'well', '2017', 'before']
+
+The 50 most frequents word of the subcategory "Guyanese writers" :
+['caribbean', 'literature', 'mcwatt', 'west', 'press', 'isbn', 'university', '84523', 'sentences', 'edited', 'book', 'suspended', 'professor', 'tree', 'guyana', 'prize', 'poetry', 'indian', 'peepal', 'position', 'perspectives', 'language', 'critical', 'oxford', 'editor', 'journal', 'eldorado', 'short', 'english', 'fiction', 'first', 'indies', 'poems', 'dangaroo', 'mark', '2005', 'verse', 'story', 'born', 'smith', 'press,1994', 'views', 'well', 'where', 'which', 'wilson', 'pilgrimage', 'ph.d', 'winner', 'with']
+
+The 50 most frequents word of the subcategory "Russian writers" :
+['that', 'notovitch', 'with', 'jesus', 'alchuk', 'were', 'india', 'which', 'years', 'there', 'book', 'been', 'russian', 'also', 'monastery', 'ryklin', 'published', 'about', 'notovich', 'after', 'anna', 'life', 'wrote', 'nicolas', 'story', 'tibet', 'manuscript', 'during', 'hemis', 'christ', 'works', 'their', 'moscow', 'have', 'michail', 'lama', 'before', 'left', 'english', 'political', 'trial', 'death', 'later', 'found', 'many', 'into', 'claims', 'threats', 'french', 'issa']
+
+The 50 most frequents word of the subcategory "Belarusian writers" :
+['belarusian', 'poems', 'baradulin', 'ryhor', '1935', 'graduated', 'some', 'including', 'received', 'translations', 'center', 'publishing', 'ushachy', 'books', 'book', 'from', 'first', 'belarus', 'worked', 'newspaper', 'member', 'awards', '2014', 'works', 'poet', 'appeared', 'raion', 'published', 'references', 'russian', 'polymya', 'periodicals', 'satiric', 'president', 'school', 'people', 'prize', 'stepam', 'selected', 'various', 'рыго́р', 'бараду́лін', 'źmiena', 'čyrvonaja', 'writer', 'which', 'website', 'vierasoŭka', 'university', 'several']
+
+The 50 most frequents word of the subcategory "Polish writers" :
+['film', 'internet', 'site', 'international', 'polish', 'festival', 'documentary', 'włodzimierz', 'with', 'warsaw', 'krajobraz', 'land', 'landscape', 'ludzie', 'people', 'czerwonej', 'association', 'filmmakers', 'films', 'ziemi', 'goose', 'gęsią', 'special', 'https://www.sfp.org.pl/osoba,0,1,58347,wlodzimierz-szpak.html', 'festivals', 'huesca', 'prize', 'silver', 'filmweb', 'reward', 'spain', 'poland', 'puchalski', 'dancer', 'which', '1986', 'szpak', 'that', 'łodz', 'born', '2020', 'awarded', 'psychological', 'programme', 'national', 'production', 'nevertheless', 'nights', 'output', 'noce']
+
+The 50 most frequents word of the subcategory "Spanish writers" :
+['gracián', 'baltasar', 'which', 'spanish', 'with', 'from', 'they', 'madrid', 'most', 'josé', 'criticón', 'salaverría', 'translated', 'writer', 'where', 'manual', 'schopenhauer', 'translation', 'part', 'first', 'book', 'arte', 'oráculo', 'estudios', 'works', 'university', 'author', 'wisdom', 'novel', 'wrote', 'published', 'under', 'that', 'issn', '1993', 'maría', 'molins', 'references', 'prudencia', 'pensamiento', 'many', 'spain', 'miguel', 'style', 'worldly', 'into', '1658', 'were', 'jesuit', 'jacobs']
+
+The 50 most frequents word of the subcategory "Moldovan writers" :
+['moldova', 'anatol', 'ciobanu', 'colab', 'sintaxa', 'university', 'limba', 'pentru', 'state', 'diploma', 'romanian', 'damian', 'medalia', 'liviu', 'manual', 'latină', 'external', 'since', 'sciences', 'been', 'bălți', 'chişinău', 'member', 'links', 'propoziţiei', 'corresponding', 'language', 'republic', 'department', 'head', 'from', 'references', '1934', '1986', '2005', 'works', '1987', '1969', '1977', 'timpul', '1976', '1978', 'academy', 'probleme', 'principale', 'prin', 'prezinta', 'person', 'profesorul', 'prag']
+
+The 50 most frequents word of the subcategory "Korean writers" :
+['korean', 'with', 'dong', 'korea', 'adultery', 'also', 'works', 'writer', 'joseon', 'many', 'from', 'life', 'sangwon', 'park', 'been', 'women', 'respite', 'that', 'musical', 'dynasty', 'literature', 'time', 'literary', 'king', 'uhwudong', 'such', 'plays', 'portrayed', 'translation', 'poet', 'award', 'become', 'having', 'work', 'while', 'political', 'which', 'known', 'born', 'cultural', 'short', 'noble', 'reality', 'actress', 'execution', 'references', 'ilbo', 'flow', 'film', 'taek']
+
+The 50 most frequents word of the subcategory "American writers" :
+['with', 'series', 'film', 'underwood', 'from', 'american', 'also', 'drama', 'stevens', 'wool', 'writer', 'role', 'appeared', 'short', 'starred', 'career', 'season', 'life', 'born', 'references', 'york', 'story', 'married', 'television', 'book', 'first', 'biography', 'whitman', 'producer', 'city', 'director', '2017', 'award', 'played', 'wrote', 'before', 'school', '2010', 'known', '2016', 'kooning', '2004', 'jacobs', 'after', '2007', 'received', 'franklyn', 'screenplay', 'author', 'economics']
+
+The 50 most frequents word of the subcategory "Tanzanian writers" :
+['hussein', 'ebrahim', 'theatre', 'swahili', 'that', 'sesota', 'african', 'tanzania', 'plays', 'africa', 'which', 'with', 'playwright', 'this', 'study', 'after', 'also', 'prize', 'published', 'poetry', 'play', 'village', 'first', 'tanzanian', 'east', 'literary', 'university', 'elements', 'been', 'from', 'belkin', 'european', 'rather', 'research', 'development', 'evil', 'early', 'time', 'thesis', 'more', 'culture', 'work', 'ngao', 'wrote', 'oclc', 'colonialism', 'college', 'literature', 'works', 'like']
+
+The 50 most frequents word of the subcategory "Afghan writers" :
+['afghanistan', 'corruption', 'hamdam', 'afghan', 'nato', 'that', 'senior', 'international', 'from', 'against', 'government', 'worked', 'affairs', 'security', 'political', 'with', 'member', 'should', 'also', 'media', 'fighting', 'national', 'peace', 'society', '2009', 'european', 'leaders', 'kabul', 'fight', 'country', 'relationship', 'anti', 'united', 'civil', 'organization', 'center', 'other', 'washington', 'called', 'some', 'where', 'university', 'president', 'asia', 'elections', 'most', 'about', 'youth', 'decade', 'problem']
+
+The 50 most frequents word of the subcategory "Bangladeshi writers" :
+['bengali', 'karim', 'bangladesh', 'college', 'sahitya', 'university', 'published', 'bangla', 'manuscripts', 'kabir', 'national', 'career', 'from', 'chittagong', 'served', 'literature', 'title', 'dhaka', 'schools', 'were', 'titled', 'rokeya', 'poets', 'collected', 'government', 'abdul', 'life', 'under', 'known', 'references', 'catalog', 'muslim', 'divisional', 'meher', 'patiya', 'intermediate', 'textbook', 'personal', 'preserved', 'position', 'posthumously', 'presidency', 'period', 'prachin', 'prafulla', 'littérateur', 'parichiti.karim', 'passed', 'pass', 'parisad']
+
+The 50 most frequents word of the subcategory "Mexican writers" :
+['mexico', 'writer', 'university', 'city', 'national', 'novel', 'which', 'autonomous', 'curiel', 'mexican', 'references', 'obra', 'novedades', 'notable', 'nominated', 'next', '14/15', 'muerte', 'moved', 'onetti', 'many', 'lived', 'lisbon', 'lawyer', 'july', 'interred', 'internacional', 'most', 'poetry', 'paris', 'short', 'works', 'worked', 'volcán', 'villaurrutia', 'tres', 'time', 'studied', 'stories', 'since', 'several', 'pies', 'sciences', 'sarabia', 'regularly', 'published', 'publication', 'professor', 'premio', 'prazeres']
+
+The 50 most frequents word of the subcategory "French writers" :
+['french', 'helena', 'with', 'from', 'napoleon', 'paris', 'olivier', 'island', 'published', 'saint', 'novel', 'garde', 'france', 'russian', 'sanderval', 'zdanevich', 'hélène', 'iliazd', 'sainte', 'became', 'born', 'which', 'avant', 'st.helena', 'napoléon', 'martineau', 'dancoisne', 'life', 'they', 'artist', 'references', 'october', 'georgian', 'about', 'michel', 'puaux', '2016', 'national', '2017', '2011', 'michaux', 'other', 'volume', 'tbilisi', 'university', '1987', 'gardien', 'early', '1919', '2015']
+
+The 50 most frequents word of the subcategory "Liberian writers" :
+['gbowee', 'women', 'peace', 'that', 'with', 'liberia', 'from', 'their', 'were', 'liberian', 'people', 'they', 'children', 'been', 'used', 'which', 'conflict', 'healing', 'also', 'first', '2011', 'this', 'university', 'africa', 'faith', 'religious', 'leymah', 'them', 'about', 'wanep', 'wipnet', 'award', 'peacebuilding', 'movement', 'building', 'life', 'trauma', 'ghana', 'have', 'work', 'york', 'through', 'prize', 'other', 'religion', 'member', 'ekiyor', 'could', 'where', 'when']
+
+The 50 most frequents word of the subcategory "Finnish writers" :
+['leino', 'finnish', 'eino', 'finland', 'nieminen', 'rauno', 'works', 'musical', 'kantele', 'jouhikko', 'sibelius', 'helsinki', 'national', 'isbn', 'music', 'folk', 'which', 'poet', 'work', 'cause', 'from', 'civil', 'poetry', 'arts', 'death', 'early', 'publications', 'instruments', 'building', 'school', 'july', 'also', 'guitars', 'academy', 'about', 'other', 'career', '1918', 'written', '2020', 'university', 'instrument', 'most', 'with', 'writer', 'poems', 'applied', 'guitar', 'wrote', 'multiple']
+
+The 50 most frequents word of the subcategory "Greek writers" :
+['greek', 'with', 'levidis', 'apostolidis', 'athens', 'from', 'greece', 'first', 'which', 'after', 'raktivan', 'until', 'during', 'political', 'published', 'national', 'works', 'years', 'president', 'writer', 'also', 'second', 'march', 'this', 'death', 'life', 'city', 'great', 'were', 'father', 'that', 'elected', 'under', 'born', 'year', 'venizelos', 'history', 'state', 'references', 'many', 'bavarian', 'later', 'ismailos', 'council', 'parliament', 'company', 'newly', 'against', 'constitution', 'about']
+
+The 50 most frequents word of the subcategory "Danish writers" :
+['from', 'danish', 'party', 'member', 'people', 'berth', '2015', 'glistrup', 'folketing', 'about', 'youth', '1999', 'history', 'born', 'mogens', 'odense', 'fremskridtspartiet', '2005', 'february', 'region', 'dansk', 'council', 'copenhagen', 'chairman', 'skolen', 'criticism', 'løgnen', '2010', '2007', 'time', 'been', 'university', 'when', 'politician', 'until', 'political', 'vallensbæk', '1984', '1995', 'migrants.berth', 'written', 'november', 'progress', 'master', 'national', 'municipality.berth', 'municipal', 'october', 'suggested', 'søren']
+
+The 50 most frequents word of the subcategory "Filipino writers" :
+['roces', 'philippines', 'labor', 'book', 'azucena', 'liling', 'from', 'romuáldez', 'store', 'with', 'philippine', 'lopez', 'university', 'management', 'leyte', 'professional', 'filipino', 'business', 'supreme', 'court', 'resource', 'ateneo', 'rafael', 'schools', 'language', 'also', 'personnel', 'first', 'romualdez', 'waray', 'bisayan', '2007', 'award', 'association', 'code', 'college', 'other', 'grammar', 'laws', 'june', 'notes', 'human', 'were', '1941', 'country', 'salle', 'samar', 'writer', '1938', 'manila']
+
+The 50 most frequents word of the subcategory "Iraqi writers" :
+['arabic', 'university', 'iraq', 'language', 'professor', 'from', 'rhetoric', 'islam', 'born', 'iraqi', 'baghdad', 'published', 'naaman', 'then', 'león', 'criticism', 'with', 'books', 'scientific', 'culture', 'college', 'became', 'worked', 'first', 'references', 'monte', 'guidance', 'riego', 'cairo', 'arts', 'school', 'dictionary', 'book', 'academy', '1967', 'jubouri', 'teacher', 'best', 'arab', 'also', 'into', 'spanish', 'award', 'studies', 'ahmed', 'translated', 'after', 'that', 'list', 'rhetorical']
+
+The 50 most frequents word of the subcategory "Guernsey writers" :
+['edwards', 'ebenezer', 'chaney', 'page', 'published', 'book', 'guernsey', 'edward', 'biography', 'blue', 'novel', 'friend', 'john', 'september', 'their', 'towards', 'completed', 'eventually', 'review', 'publishing', 'great', 'ormer', 'only', 'murry', 'typescript', 'life', 'write', 'years', 'been', '2015', 'which', 'america', 'weymouth', 'with', 'wife', 'became', 'many', 'plaque', 'london.edwards', 'lodger', 'paperback', 'parts', 'literary', 'penguin', 'posthumously', 'owner', 'light', 'potter', 'presenting', 'print']
+
+The 50 most frequents word of the subcategory "New Zealand writers" :
+['school', 'zealand', 'pope', 'schools', 'native', 'with', 'seagar', 'from', 'dunedin', 'education', 'first', 'otago', 'barclay', 'pages', 'government', 'james', 'that', 'auckland', 'māori', 'henry', 'born', 'health', 'printer', 'reading', 'recipes', 'teacher', 'wellington', 'inspector', 'writer', 'maori', 'were', 'member', 'film', 'appointed', 'parliament', 'your', 'gaoa', 'university', 'girls', 'ballarat', 'high', 'references', 'time', 'well', 'easy', 'early', 'samoans', 'attended', 'teaching', 'this']
+
+The 50 most frequents word of the subcategory "Ghanaian writers" :
+['fanon', 'university', 'sekyi', 'published', 'political', 'harvard', 'social', 'book', 'born', 'cambridge', 'press', 'caribbean', 'coast', 'graduate', 'toronto', 'received', 'ghanaian', 'dialectic', 'references', 'school', 'frantz', 'first', 'routledge', 'essays', 'known', 'universalism', 'with', 'written', '1971', '1996', 'work', '2018', 'left', 'until', 'experience', 'africacentric', 'african', 'where', 'portrayals', 'program', 'recent', 'professor', 'philosophical', 'possibility', 'post', 'philosopher', 'outstanding', 'prefect', 'online', 'pursued']
+
+The 50 most frequents word of the subcategory "Swiss writers" :
+['isbn', 'christe', 'pourtalès', 'gallimard', 'with', 'switzerland', 'which', 'prize', 'verlag', 'after', 'swiss', 'also', 'metal', 'göttingen', '8353', 'born', 'wallstein', 'book', 'french', 'published', 'history', 'holocaust', 'schaub', 'from', 'german', 'first', 'paris', 'works', 'party', 'work', 'where', 'france', 'bärfuss', 'points', 'band', 'founded', 'heavy', 'lausanne', 'pêche', 'school', 'books', '2019', 'roman', 'geneva', 'miraculeuse', 'société', 'bazillion', 'june', 'university', 'high']
+
+The 50 most frequents word of the subcategory "Irish writers" :
+['moore', 'irish', 'mullen', 'with', 'that', 'from', 'which', 'life', 'aran', 'western', 'also', 'years', 'australia', 'ireland', "o'shannon", 'labour', 'were', 'their', 'where', 'they', 'film', 'died', 'river', 'dublin', 'john', 'land', 'early', 'island', 'became', 'this', 'been', 'party', 'faber', 'family', 'before', 'boston', 'while', 'county', 'published', 'colonial', 'history', 'governor', 'later', 'october', 'language', 'married', 'inishmore', 'after', 'london', 'swan']
+
+The 50 most frequents word of the subcategory "Jamaican writers" :
+['jamaican', 'novel', 'governess', 'jamaica', 'indian', 'west', 'undine', 'having', '1909', 'references', 'reared', 'publishing', 'prophecy', 'poet', 'novelist', 'p.59', 'return', 'miscellany', 'midst', 'luxury', 'lover', 'remarked', 'robinson', 'review', 'lagwood', 'writers', 'works', 'work', 'women', 'with', 'white', 'wealth', 'walcott', 'vision', 'times', 'these', 'that', 'tells', 'sweet', 'story', 'stephenson', 'sept', 'love', 'jamaica.stephenson', 'jesus', 'dreamland', 'described', 'creole', 'countryside', 'clarine']
+
+The 50 most frequents word of the subcategory "Pakistani writers" :
+['urdu', 'tariq', 'umrao', 'rahim', 'short', 'after', 'writing', 'india', 'karachi', 'collection', 'pakistan', 'contemporary', 'pashto', 'award', 'sindh', 'army', 'born', 'biography', 'started', 'stories', 'language', 'books', 'police', 'various', 'published', '1985', 'moved', 'wrote', 'film', 'adamjee', 'literary', 'fatehpur', 'early', '1979', 'first', 'jannat', 'filmography', 'talash', 'fatehpuri', 'farman', 'dhaka', 'critic', 'deputy', 'external', 'hyderabad', 'daily', 'darya', 'dastan', 'impressions', 'death']
+
+The 50 most frequents word of the subcategory "German writers" :
+['herloßsohn', 'leipzig', 'vols', 'prague', 'carl', 'published', 'works', 'german', 'with', 'from', 'karl', 'which', 'oder', 'became', 'georg', '1842', 'erste', 'literature', 'reginald', 'wrote', 'including', 'vormärz', 'robert', 'numerous', 'also', 'hussite', 'together', 'into', 'satirical', 'first', 'about', 'deutsche', 'schumann', 'revolutionary', 'dejwitz', 'novels', 'november', 'several', 'gesammtausgabe', 'buch', 'böhmen', 'critical', 'period', 'magazine', 'clauren', '1847', '1848', 'life', '1830', 'liebe']
+
+The 50 most frequents word of the subcategory "Slovenian writers" :
+['such', 'short', 'kuga', 'italian', 'business', 'plague', 'town', 'feline', 'mačja', 'ljubljana', 'settling', 'publishing', 'secretary', 'roommates', 'regular', 'references', 'serbian', '1960', 'published', 'prose', 'slovenian', 'praised', 'planned', 'novels', 'novel', 'novak', 'nova', 'murder', 'mladina', 'pratchett).she', 'stories', 'started', 'vodah', 'yugoslav', 'writes', 'writer', 'works', 'worked', 'wing', 'wild', 'where', 'well', 'weekly', 'waters', 'vladimir', 'maja', 'university', 'umor', 'translator', 'translated']
+
+The 50 most frequents word of the subcategory "Indian writers" :
+['bose', 'university', 'india', 'indian', 'gogte', 'sugata', 'from', 'with', 'that', 'subhas', 'isbn', 'which', 'chandra', 'history', 'cambridge', 'life', 'saibaba', 'court', 'against', 'press', 'college', '2011', 'empire', 'research', 'ocean', 'economy', 'after', 'pune', 'been', 'since', 'career', 'management', 'professor', 'year', 'global', 'delhi', 'also', 'published', 'early', '2012', 'review', 'till', 'business', 'struggle', 'gangapadhyay', 'oxford', 'south', 'july', 'were', 'served']
+
+The 50 most frequents word of the subcategory "Ivorian writers" :
+['ivorian', 'kotchy', 'barthélémy', 'dans', "l'œuvre", '2019', 'africaine', 'with', 'january', '1984', 'kesteloot', "l'homme", 'négro', 'lecture', 'lilyan', 'littérature', 'léon', "n'guessan", 'noir', '1934', 'olifant', 'politician', 'grand', 'poésie', 'president', 'propos', 'references', 'senghor', 'sociale', 'suivi', 'théâtrale', 'works', 'popular', 'from', 'gontran', 'bernard', '1989', '1993', '2001', '2008', 'abidjan', 'africaines', 'aged', 'aimé', 'arts', 'ascad', 'bassam', 'chansons', 'front', 'christophe']
+
+The 50 most frequents word of the subcategory "Bulgarian writers" :
+['bulgarian', 'minkov', 'from', 'works', '1966', '1942', 'tales', 'house', 'sofia', 'brother', 'studied', 'studies', 'style', 'svetoslav', 'before', 'died', 'fiction', 'diabolism', 'november', 'radomir', 'also', 'communist', '1902', 'number', 'working', 'with', '1920s', '1922', 'military', '1936', 'literary', 'local', 'parody', 'party', 'paying', 'period', 'loss', 'literature', 'pervasive', 'pioneer', 'phobias', 'madrid', 'pisatel', 'library', 'play', 'primarily', 'primary', 'printing', 'published', 'paranoid']
+
+The 50 most frequents word of the subcategory "Egyptian writers" :
+['translated', 'english', 'abdelmegid', 'temple', 'short', 'sleeping', 'stories', 'strangers', 'teaches', 'these', 'theresa', 'several', 'university', 'where', 'with', 'wright', 'shams', 'saint', 'author', 'rossetti', 'references', 'obtained', 'novels', 'jonathan', 'into', 'have', 'from', 'egyptian', 'department', 'chip', 'been', 'bahaa', 'writer']
+
+The 50 most frequents word of the subcategory "Burmese writers" :
+['hlaing', 'burmese', 'novel', 'king', 'with', 'first', 'burma', 'kyaw', 'novels', 'maung', 'also', 'from', 'were', 'treatise', 'after', 'wrote', 'that', 'mindon', 'life', 'career', 'chit', 'works', 'royal', 'many', 'which', 'james', 'when', 'writer', 'been', 'myanmar', 'into', 'said', 'historical', 'philosophy', 'buddhist', 'father', 'based', 'lingadipa', 'literary', 'school', 'lord', 'lottery', 'story', 'during', 'theatrical', 'young', 'than', 'mandalay', 'then', 'buddha']
+
+The 50 most frequents word of the subcategory "Nepalese writers" :
+['novel', 'yogmaya', 'puraskar', 'nepali', 'published', 'born', '2020', 'koirala', 'short', 'literature', 'literary', 'story', 'madan', 'education', 'from', 'parityakta', 'received', 'first', 'university', 'karki', 'poem', 'poet', 'also', 'shortlisted', 'dhungana', 'works', 'writer', 'called', 'parijat', 'biratnagar', 'bhuwan', 'career', 'mohan', 'stories', 'cheerharan', 'influence', 'singh', 'political', 'daily', 'dance', 'diploma', 'sahitya', 'rupee', 'references', 'family', 'thousand', 'bhok', 'which', 'award', '2026']
+
+The 50 most frequents word of the subcategory "Nigerian writers" :
+['university', 'lagos', 'ezeigbo', 'books', 'nigeria', 'literature', 'african', 'from', 'prize', 'children', 'women', 'nigerian', 'award', 'association', '2019', 'ibadan', 'with', 'novel', 'stories', 'studies', 'state', 'short', 'english', 'writing', 'federal', 'literary', '2012', 'alike', 'press', 'ndufu', 'adimora', 'journal', 'writers', 'first', 'akachi', 'london', '2009', 'alex', 'other', '2005', 'awarded', 'igbo', 'students', 'ekwueme', '2010', 'edited', 'literamed', 'poetry', 'research', 'poems']
+
+The 50 most frequents word of the subcategory "Israeli writers" :
+['film', 'festival', 'israeli', 'with', 'jerusalem', 'best', 'bentwich', 'documentary', 'series', 'israel', 'isbn', 'award', 'world', '2018', 'international', 'russian', '2014', 'which', 'their', 'many', 'feature', 'tree', 'short', 'maya', 'milk', 'republic', 'jewish', 'дорфман', 'lies', '2008', 'михаэль', 'hour', 'white', 'made', 'palm', 'school', 'editor', 'tala', 'what', 'that', 'festivals', 'script', 'women', 'broadcast', '2012', 'dorfman', '2005', 'children', 'also', 'libby']
+
+The 50 most frequents word of the subcategory "Lebanese writers" :
+['rihani', 'arab', 'that', 'english', 'published', 'with', 'arabic', 'novel', 'this', 'book', 'during', 'first', 'ameen', 'american', 'arabia', 'york', 'literary', 'from', 'world', 'works', 'also', 'literature', 'were', 'which', 'freike', 'political', 'where', 'poetry', 'same', 'about', 'time', 'wrote', 'books', 'women', 'life', 'essays', 'these', 'writer', 'east', 'publishing', 'story', 'language', 'hamoush', 'father', 'became', 'other', 'written', 'school', 'nimat', 'considered']
+
+The 50 most frequents word of the subcategory "Swedish writers" :
+['that', 'bohman', 'with', 'eventide', 'drowned', 'about', 'novel', 'woman', 'delargy', 'also', 'they', 'olmsted', 'other', 'marlaine', 'women', 'book', 'them', 'novels', 'kolmården', 'both', 'swedish', 'books', 'trans', 'cheesman', 'rosenthal', 'same', 'houellebecq', 'said', 'works', 'feel', 'kind', 'share', 'therese', 'theories', 'concluded', 'karolina', 'from', 'those', 'interests', 'review', 'expressen', 'karl', 'critic', 'insight', 'protagonists', 'published', 'such', 'depicted', 'prose', 'axess']
+
+The 50 most frequents word of the subcategory "Hong Kong writers" :
+['kong', 'hong', 'chinese', 'university', 'shanghai', 'that', 'which', '1950', 'modern', 'also', 'literary', 'later', 'left', 'where', 'time', 'wartime', 'many', 'china', 'love', 'with', 'journals', 'student', 'member', 'from', 'editor', 'ghost', 'during', 'been', 'post', 'tsang', 'portrait', 'economics', 'early', 'baptist', 'became', 'competition', 'committee', 'rustling', 'biography', 'point', 'fiction', 'other', 'currency', 'philosophy', 'social', 'future', 'published', 'literature', 'activists', 'writers']
+
+The 50 most frequents word of the subcategory "Ukrainian writers" :
+['ukrainian', 'that', 'russian', 'naumovich', 'people', 'austrian', 'polish', 'their', 'western', 'from', 'ukraine', 'catholic', 'into', 'part', 'church', 'were', 'language', 'which', 'authorities', 'with', 'ukrainians', 'movement', 'priest', 'this', 'empire', 'would', 'ruthenians', 'eastern', 'village', 'poles', 'nation', 'machtet', 'ivan', 'peasants', 'galician', 'galicia', 'future', 'loyalty', 'demands', 'became', 'glimpse', 'ruthenian', 'such', 'efforts', 'during', 'revolutionary', 'order', 'women', 'most', 'among']
+
+The 50 most frequents word of the subcategory "Saudi Arabian writers" :
+['arefe', 'that', 'saudi', 'from', 'they', 'twitter', 'banned', 'were', 'egyptian', 'muslim', 'salman', 'management', 'them', 'with', 'world', 'posted', 'brotherhood', 'said', '2013', 'member', 'jews', 'over', 'years', 'july', 'arabic', 'authorities', 'development', 'prince', 'also', 'ouda', 'university', 'arabia', 'arrest', 'government', 'against', 'saud', 'claimed', 'affairs', 'public', 'media', 'abdul', '2014', 'mohammad', '2018', 'switzerland', 'cowardly', 'series', 'home', 'photo', 'coup']
+
+The 50 most frequents word of the subcategory "South Korean writers" :
+['with', 'father', 'korea', 'literary', 'korean', 'works', 'work', 'fantasy', 'chae', 'hwan', 'honeymoon', 'modern', 'mirwol', 'house', 'hand', 'history', 'have', 'green', 'first', 'faraway', 'family', 'moja', 'mother', 'moon', 'sister', 'wordless', 'trauma', 'tragic', 'that', 'summer', 'sumgyeol', 'song', 'sanjunggi', 'diary', 'sang', 'oworui', 'older', 'often', 'novelist', 'night', 'mountain', 'dreamlike', 'yeoreumui', 'after', 'decline', 'darui', 'absence', 'chorok', 'breath', 'award']
+
+The 50 most frequents word of the subcategory "Sri Lankan writers" :
+['sung', 'donkey', 'kapuge', 'with', 'gunadasa', 'television', 'from', 'counsel', 'would', 'president', 'davasak', 'pala', 'judgment', 'lyrics', 'seneviratne', 'hene', 'after', 'lanka', 'king', 'nathi', 'banda', 'state', 'plaintiff', 'poetry', 'interpretation', 'mihintale', 'popular', 'dead', 'presenter', 'that', 'died', 'radio', 'given', 'gained', 'road', 'favour', 'defendant', 'fifty', 'people', 'appointed', 'author', 'village', 'anuradhapura', 'many', 'links', 'amarasiri', 'writing', 'lankan', 'language', 'mature']
+
+The 50 most frequents word of the subcategory "Hungarian writers" :
+['szepes', 'mária', 'lion', 'first', 'through', 'author', 'novel', 'burgner', 'hungarian', 'papir', 'book', 'born', 'into', 'hungary', 'copies', 'history', 'hans', 'spiritually', 'elixir', 'spiritual', 'german', 'various', 'budapest', 'after', 'death', 'béla', 'made', 'this', 'centuries', 'well', 'sándor', 'writer', 'however', '1933', 'december', 'journalist', 'published', 'driven', 'great', 'marriage', 'years', 'several', 'self', 'selected', 'father', 'worked', 'during', 'which', 'alchemist', 'becomes']
+
+The 50 most frequents word of the subcategory "Bosnia and Herzegovina writers" :
+['sarajevo', 'international', 'editor', 'kurspahić', 'press', 'from', 'austria', 'media', 'vienna', 'belgrade', 'paper', 'united', 'bosnian', '1992', 'during', 'published', 'crime', 'award', 'years', 'that', 'virginia', 'became', 'regional', 'states', 'york', 'school', 'against', 'institute', 'oslobođenje', 'peace', 'world', 'worked', 'with', 'journalism', 'human', 'including', 'connection', 'correspondent', 'then', 'countries', 'managing', 'recognition', 'croatia', 'role', 'freedom', 'daily', 'nations', 'democracy', 'post', 'sports']
+
+The 50 most frequents word of the subcategory "Yemeni writers" :
+['short', 'dammaj', 'political', 'collection', 'story', 'arabic', 'novel', 'yemen', 'father', 'published', '2000', 'went', 'elected', 'first', 'governorate', 'mutee', 'before', 'hostage', 'yemeni', 'studied', 'sheikh', 'career', 'became', 'stories', 'books', 'english', 'continued', 'district', 'school', 'sayyani', 'that', 'regarded', 'rahinah', 'governor', 'home', 'party', 'march', 'taiz', '1943', '1984', 'when', 'with', 'aden', '1973', 'against', 'also', 'where', '1982', 'prize', 'politician']
+
+The 50 most frequents word of the subcategory "Croatian writers" :
+['translated', 'croatian', 'london', 'novelist', 'kosor', 'january', 'plays', 'power', 'passion', 'paul', 'peasant', 'people', 'performance', 'playwright', 'poems', 'reconciliation', 'prize', 'nobel', 'references', 'selver', 'ship', 'some', 'starting', 'three', 'times.his', 'universe', 'were', 'white', 'nominated', '1879', 'naturalist', '1912', '1917', '1921', '1929', '1961', 'author', 'copeland', 'dalmatia', 'daniel', 'depicting', 'dramatist', 'duddington', 'england', 'flames', 'four', 'from', 'furnace', 'graduated', 'hendersons']
+
+The 50 most frequents word of the subcategory "Senegalese writers" :
+['fall', 'work', 'senghor', 'poet', 'poems', 'women', '1934', 'dakar', 'have', 'early', 'echoes', 'themes', 'born', 'spirituality', 'said', 'nature', 'from', 'singing', 'french', 'senegal', 'senegalese', 'after', '1970s', 'poetry', 'language', 'writers', 'love', 'rivière', 'near', 'nearly', 'school', 'news', 'notes', 'nouvelles', 'obviously', 'rufisque', 'poèmes', 'praise', 'remained', 'orality', 'regional', 'references', 'reading', 'quality', 'published', 'politician', 'president', 'pseudonym', 'song', 'sensuality']
+
+The 50 most frequents word of the subcategory "Romanian writers" :
+['ignat', 'with', 'nestor', 'after', 'published', 'communist', 'romanian', 'from', 'which', 'party', 'university', 'writers', 'blaga', 'ideological', 'other', 'bucurești', 'editura', 'also', 'drawings', 'poems', 'while', 'political', 'were', 'such', 'vasile', 'works', 'literary', 'bucharest', 'coroban', 'activity', 'union', 'artist', 'being', 'editor', 'death', 'socialist', 'first', 'that', 'marxist', 'part', 'presentation', 'graphic', 'journalist', 'member', 'faculty', 'national', 'this', 'school', 'still', 'time']
+
+The 50 most frequents word of the subcategory "Algerian writers" :
+['language', 'berber', 'ouettar', 'algerian', 'algeria', 'arabic', 'writers', 'nation', 'most', 'make', 'north', 'references', 'novel', 'once', 'project', 'liberate', 'prolific', 'published', 'quran', 'radio', '1936', 'said', 'saqi', 'july', 'steadfast', 'supporter', 'tahar', 'trans', 'vestiges', 'wake', 'while', 'william', 'writer', 'الطاهر', 'sedrata', 'into', 'islamic', 'colonialism', '1991', '2000', '2010', '86356', 'african', 'arab', 'arabization', 'assault', 'august', 'authors', 'books', 'born']
+
+The 50 most frequents word of the subcategory "Andorran writers" :
+['premi', 'novel', 'maleït', 'prize', 'gran', 'historical', 'ulls', 'luján', 'dedicated', 'vida', 'salvadó', "d'anníbal", 'concubina', "d'àtila", 'rapte', 'fiction', 'històrica', 'marsellès', 'mort', 'nèstor', 'novel·la', "l'anell", 'written', 'obre', "l'informe", 'rossell', 'musulmà', 'negra', 'reina', 'desperta', 'punyal', "l'enigma", "l'esperança", 'parleu', 'fiter', 'plaza', 'from', 'genre', 'phaeton', 'cristià', 'janés', 'hongaresa', 'sarraí', 'mateu', 'trilogy', '2005', '2002', '1999', '1998', 'català']
+
+The 50 most frequents word of the subcategory "Central African Republic writers" :
+['film', 'films', 'with', 'baker', 'writer', 'actor', 'said', 'feature', 'short', 'from', 'republic', 'first', 'central', 'play', 'tansi', 'several', 'tchicaya', 'brazzaville', 'that', 'their', 'katoucha', 'portrait', 'ramata', 'author', 'paris', 'sony', 'length', 'role', 'documentary', 'african', 'woman', 'released', 'fifteen', 'years', 'director', 'radio', '1993', 'psychological', 'protest', 'pleasures', 'plays', 'over', 'oranges', 'nuits', 'novels', 'novel', 'nights', 'niane', 'ndione', 'national']
+
+The 50 most frequents word of the subcategory "Belgian writers" :
+['broeck', '1972', '1974', 'walter', 'vlaams', 'voor', '1970', 'prijs', 'teacher', '1981', '1982', 'tijdschrift', 'novel', 'references', 'hannelore', 'groenten', 'playwright', 'staatsprijs', 'leven', 'belgian', 'antwerpen', 'frans', 'beleg', 'balen', 'nieuw', '1992', 'became', 'born', 'provincie', 'boudewijn', 'show', 'brief', 'depeuter', 'robin', '1979', 'writer', 'literature', '1977', 'laken', 'proza', 'reinhart', 'rietjes', 'rekening', 'resigned', 'querido', 'published', '1941', 'proces', 'post', 'lier']
+
+The 50 most frequents word of the subcategory "Welsh writers" :
+['davies', 'number', 'died', 'published', 'have', 'welsh', 'prizes', 'einion', 'eisteddfodau', 'poems', 'cardiff', 'buried', 'from', 'utica', 'composed', 'references', '1870', '1881', 'march', 'known', '1940', 'near', 'materials', 'railway', 'manuscripts', 'many', 'pseudonym', 'producing', 'press', 'newport', 'poetry', 'pieces', 'merioneth', 'ottawa', 'october', 'morgan', 'received', 'moses', 'music', 'novels', 'poet', '1867', 'retirement', 'rhos', 'years', 'wrote', 'work', 'with', 'wisconsin', 'williams']
+
+The 50 most frequents word of the subcategory "Kuwaiti writers" :
+['university', 'education', 'children', 'kuwait', 'college', 'from', 'ashour', '1998', '2006', 'department', 'arabic', 'stories', 'states', 'level', 'curriculum', 'methods', 'indiana', 'bloomington', 'director', 'jaffar', 'books', 'master', 'teaching', 'three', 'arab', 'united', 'surprised', 'practical', 'publication', 'program', 'world', 'professor', 'prize', 'primary', 'writer', 'poetic', 'politics', 'published', 'philosophy', 'owner', 'الجعفر', 'origins', 'obtained', 'object', 'which', 'reading', 'publishes', 'smell', 'teaches', 'storypedia']
+
+The 50 most frequents word of the subcategory "Macedonian writers" :
+['macedonian', 'bulgarian', '1975', 'slavko', 'historical', 'orthodox', 'from', 'staff', 'political', 'references', 'priest', 'position', '1973', 'people', 'nikola', 'national', 'misinterpretations', 'local', 'list', 'related', 'rogati', 'research', 'supporting', 'димевски', 'worked', 'with', 'vapcarov', 'tmro', 'suti', 'struggle', 'kumanovo', 'some', 'sociological', 'smilevskiot', 'screenwriter', 'screenplays', 'scientific', 'kurirot', 'karev', 'kongres', 'books', 'deceptions', 'creation', 'created', 'common', 'churches', 'church', 'been', 'koleno', 'also']
+
+The 50 most frequents word of the subcategory "Honduran writers" :
+['honduran', 'writer', 'tegucigalpa', 'poetry', 'poesía', 'anthology', 'acosta', '2014', 'works', 'with', 'short', 'presente', 'born', '1933', '1971', 'academy', 'reyes', 'responso', 'represented', 'references', 'rafael', 'published', 'prince', '1960s', '1962', 'sections', 'poet', '1964', 'piedra', 'peru', 'personal', 'país', 'oscar', 'nuevo', 'roberto', 'selección', 'nominated', 'trinidad', '1952', '1955', 'which', 'when', 'were', 'vatican', 'valle', 'today', '1957', 'tiempo', '1956', 'such']
+
+The 50 most frequents word of the subcategory "Turkish writers" :
+['ergenekon', '2008', 'çakır', 'that', 'books', "ergenekon'un", 'neden', 'ki̇tap', 'military', 'hüseyin', 'several', 'darbe', 'trials', 'known', 'born', 'türkeli', 'book', '1969', 'çöküşü', '2009', 'nizip', 'organization', 'worked', 'officer', 'pepekal', 'relating', 'references', 'publishing', 'organized', 'other', 'newspaper', 'published', 'publication', 'reveal', 'province', 'profi̇l', 'only', 'number', 'prison', 'point', 'relation', '"çakır', 'roles', 'turkish', 'çatlı', 'zihni', 'yayincilik', 'with', 'while', 'visited']
+
+The 50 most frequents word of the subcategory "Dutch writers" :
+['house', 'representatives', 'vries', 'parliament', 'party', 'chairwoman', 'dutch', 'srebrenica', 'elections', 'vice', 'member', 'aartsen', 'election', '2006', 'like', 'site', 'commission', 'from', 'bibi', 'because', 'official', 'north', 'published', 'municipal', 'with', 'parliamental', 'parliamentary', 'part', 'massacre', 'pensions', 'march', 'made', 'political', 'poor', 'were', 'references', 'stepped', 'when', 'voor', 'volkspartij', 'unit', 'unemployment', 'succeeded', 'which', 'regarding', 'shortly', 'second', 'schippers', 'return', 'results']
+
+The 50 most frequents word of the subcategory "Icelandic writers" :
+['sögur', 'norðfjörð', 'óttar', 'nýhil', '2010', 'which', 'bench', '2008', 'iceland', 'philosophy', 'best', 'translated', 'spanish', 'into', 'biography', 'crime', 'been', 'novels', '2013', '2007', 'reykjavík', '2005', 'born', 'against', 'have', 'party', 'works', 'police', 'martin', 'himself', 'ævisaga', 'hnífur', 'from', 'ásgeir', 'german', '2004', 'barnagælur', 'with', 'june', '2009', 'unfortunate', 'abrahams', '2006', 'selling', 'sverris', 'poetry', 'dutch', 'sverrir', '2011', 'proceeded']
+
+The 50 most frequents word of the subcategory "Malawian writers" :
+['malawi', 'african', 'language', 'studies', 'university', 'linguistics', 'london', 'from', 'college', 'journal', 'publications', 'chichewa', 'moto', 'francis', '2001', 'study', 'malawian', 'chancellor', 'isbn', 'lexicon', 'poetry', 'school', 'phonology', 'served', 'bantu', 'obtaining', 'nordic', 'popular', 'society', 'professor', 'limbe', 'principal', 'later', 'literature', '1981', '1989', '1998', 'mapanje', 'trends', 'tone', '2005', 'press', 'malilime', 'president', 'presented', 'makangano', 'power', 'political', 'poetic', 'mvula']
+
+The 50 most frequents word of the subcategory "Malaysian writers" :
+['malay', 'college', 'language', 'writing', 'until', "za'ba", 'residential', 'that', 'malaya', 'singapore', 'zainal', 'kolej', 'university', 'universiti', 'sultan', 'english', 'abidin', 'with', 'from', 'published', 'father', 'malaysia', 'kuala', 'school', "za'aba", 'idris', 'places', 'tanjung', 'kikir', 'september', 'cerita', 'education', 'other', 'batu', 'series', 'department', 'shakespeare', 'spelling', 'pelita', 'pendeta', 'skills', 'this', 'including', 'against', 'ahmad', 'when', 'were', 'lumpur', 'selangor', 'writings']
+
