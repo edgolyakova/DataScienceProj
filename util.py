@@ -1,7 +1,5 @@
 import spacy
-
-import pandas as pd
-import numpy as np
+import stanza
 
 from bs4 import BeautifulSoup
 import requests
@@ -11,6 +9,7 @@ import re
 import math
 
 nlp = spacy.load('en_core_web_sm')
+nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize')
 
 
 def text_clean(text):
@@ -54,6 +53,14 @@ def spacy_get_sents(text, to_string=True):
     """
     doc = nlp(text)
     return list(map(lambda x: str(x), doc.sents)) if to_string else doc.sents
+
+
+def stanza_get_sents(text):
+    """
+    Returns a list of strings for each sentence.
+    """
+    doc = nlp_stanza(text)
+    return [x.text for x in doc.sentences]
 
 
 def spacy_tokenize_text(text, is_pretokenized=False):
