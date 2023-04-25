@@ -8,8 +8,10 @@ import os
 import re
 import math
 
+import numpy as np
+
 nlp = spacy.load('en_core_web_sm')
-nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize')
+nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize,pos')
 
 
 def text_clean(text):
@@ -27,7 +29,6 @@ def text_clean(text):
 
     for rule in substitution_rules:
         text = re.sub(rule[0], rule[1], text)
-
 
     return text
 
@@ -48,30 +49,56 @@ def get_webpage_text(url):
 
 def spacy_get_sents(text, to_string=True):
     """
-    Tokenize a string into sentences.
+    Tokenize a string into sentences using Spacy.
     By default the output is a list of strings, however, a list of Spacy sentences can be returned as well.
     """
     doc = nlp(text)
-    return list(map(lambda x: str(x), doc.sents)) if to_string else doc.sents
+    return list(map(lambda x: str(x), doc.sents)) if to_string else list(doc.sents)
 
 
-def stanza_get_sents(text):
+def stanza_get_sents(text, to_string=True):
     """
-    Returns a list of strings for each sentence.
+    Tokenize a string into sentences using Spacy.
+    By default the output is a list of strings, however, a list of Stanza sentences can be returned as well.
     """
     doc = nlp_stanza(text)
-    return [x.text for x in doc.sentences]
+    return list(map(lambda x: x.text, doc.sentences)) if to_string else doc.sentences
 
 
-def spacy_tokenize_text(text, is_pretokenized=False):
+def spacy_tokenize_text(doc, is_pretokenized=False, no_filtering=False, to_string=True):
     """
-    Return the list of tokens.
+    Return the list of tokens provided by Spacy.
     The function can both work with a string or a Spacy sentence.
+    By default tokens are returned as strings and we expect to tokenize the text within the function.
     """
     if not is_pretokenized:
-        text = nlp(text)
+        doc = nlp(doc)
 
-    return [token.text for token in text if not token.is_punct and not token.is_stop and not token.is_space]
+    # Tokens can be returned as a list of strings
+    if to_string:
+        return list(map(lambda x: x.text, doc)) if no_filtering else \
+            [token.text for token in doc if not token.is_punct and not token.is_stop]
+    # Tokens can be as well return as a list of Spacy tokens
+    else:
+        return list(doc) if no_filtering else [token for token in doc if not token.is_punct and not token.is_stop]
+
+
+def stanza_tokenize_text(doc, is_pretokenized=False, to_string=True):
+    """
+    Return a list of tokens provided by Stanza.
+    The function can take a string or a Stanza sentence.
+    By default tokens are returned as strings and we expect to tokenize the text within the function.
+    """
+
+    if not is_pretokenized:
+        doc = nlp_stanza(doc)
+
+    # Tokens can be returned as a list of strings
+    if to_string:
+        return [x.text for sent in doc.sentences for x in sent.tokens]
+    # Or as a list of Stanza tokens
+    else:
+        return [token for sent in doc.sentences for token in sent.tokens]
 
 
 def get_texts(source_type='folder', path='', token_type='file', n=None):
@@ -146,3 +173,38 @@ def get_texts(source_type='folder', path='', token_type='file', n=None):
             # Return either all available sentences if n is more than the total number of tokens
             # or was not defined. Otherwise, return n tokens.
             return tokens[:min(n, len(tokens))]
+
+
+def get_tokens_dict(tokens):
+    # For faster computation and comparison with other tokens we can store them in a hashable dictionary
+    tokens_dict = {}
+
+    for t in tokens:
+        # Create a dictionary which will have the token text (wordform) as its key and as value it will have
+        # an array of all occurences of such wordform
+        t_list = tokens_dict.get(t.text, [])
+        t_list.append(t)
+        tokens_dict[t.text] = t_list
+
+    return tokens_dict
+
+
+def common_tokens(sp_tokens, st_tokens):
+    sp_t_dict = get_tokens_dict(sp_tokens)
+    st_t_dict = get_tokens_dict(st_tokens)
+
+    # Find wordforms that are found by both libraries
+    same_wf = set(sp_t_dict.keys()).intersection(st_t_dict.keys())
+
+    # Since the same wordform can be in a same twice or more we need to compare all of the wordforms appear
+    # equal number of times for both libraries: otherwise one the libraries mistokenized one of the words and
+    # we won't know which one. That's why such cases won't be considered as same tokens.
+
+    # Since we can have different number of occurences for the same wordform, we only take the first n occurences
+    # where n is the smallest number of occurences between Spacy and Stanza for a selected wordform.
+    common_t = list(map(lambda y: (y[0][:min(len(y[0]), len(y[1]))], y[1][:min(len(y[0]), len(y[1]))]),
+                        [(sp_t_dict[x], st_t_dict[x]) for x in same_wf]))
+
+    # Return
+    return common_t
+
