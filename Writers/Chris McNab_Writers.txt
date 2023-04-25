@@ -1,11 +1,1 @@
-Christopher Ross McNab (born March 10, 1980) is an author, computer hacker, and founder of AlphaSOC. McNab is best known for his Network Security Assessment books, which detail practical penetration testing tactics that can be adopted to evaluate the security of networks in-line with CESG CHECK, PCI DSS, and NIST SP 800-115 standards.
-He is not to be confused with Chris McNab, Welsh author, survivalist and military expert.
-During 2012 and 2013, McNab undertook incident response work on behalf of organizations in California and Nevada targeted by Alexsey Belan (currently on the FBI Cyber’s Most Wanted list). In 2011, McNab worked closely with the Attorney General of Guatemala under a United States Agency for International Development (USAID) project to secure the computer networks that underpin the legal system within the country.
-
-Bibliography
-McNab, Chris (December 2016). Network Security Assessment (3rd ed.). O’Reilly Media. ISBN 978-1-4919-1095-5.
-McNab, Chris (November 2007). Network Security Assessment (2nd ed.). O’Reilly Media. ISBN 978-0-5965-1030-5.
-McNab, Chris (March 2004). Network Security Assessment (1st ed.). O’Reilly Media. ISBN 978-0-5960-0611-2.
-
-
-== References ==
+Christopher Ross McNab (born March 10, 1980) is an author, computer hacker, and founder of AlphaSOC. McNab is best known for his Network Security Assessment books, which detail practical penetration testing tactics that can be adopted to evaluate the security of networks in-line with CESG CHECK, PCI DSS, and NIST SP 800-115 standards. He is not to be confused with Chris McNab, Welsh author, survivalist and military expert. During 2012 and 2013, McNab undertook incident response work on behalf of organizations in California and Nevada targeted by Alexsey Belan (currently on the FBI Cyber’s Most Wanted list). In 2011, McNab worked closely with the Attorney General of Guatemala under a United States Agency for International Development (USAID) project to secure the computer networks that underpin the legal system within the country. Bibliography McNab, Chris (December 2016). Network Security Assessment (3rd ed.). O’Reilly Media. ISBN 978-1-4919-1095-5. McNab, Chris (November 2007). Network Security Assessment (2nd ed.). O’Reilly Media. ISBN 978-0-5965-1030-5. McNab, Chris (March 2004). Network Security Assessment (1st ed.). O’Reilly Media. ISBN 978-0-5960-0611-2. == References ==
