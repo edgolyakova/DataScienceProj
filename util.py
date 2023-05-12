@@ -65,14 +65,14 @@ def stanza_get_sents(text, to_string=True):
     return list(map(lambda x: x.text, doc.sentences)) if to_string else doc.sentences
 
 
-def spacy_tokenize_text(doc, is_pretokenized=False, no_filtering=False, to_string=True):
+def spacy_tokenize_text(doc, is_pretokenized=False, no_filtering=False, to_string=True, to_lowercase=False):
     """
     Return the list of tokens provided by Spacy.
     The function can both work with a string or a Spacy sentence.
     By default tokens are returned as strings and we expect to tokenize the text within the function.
     """
     if not is_pretokenized:
-        doc = nlp(doc)
+        doc = nlp(doc) if not to_lowercase else nlp(doc.lower())
 
     # Tokens can be returned as a list of strings
     if to_string:
@@ -208,3 +208,12 @@ def common_tokens(sp_tokens, st_tokens):
     # Return
     return common_t
 
+
+def get_entities(text):
+    """
+    We create a function to extract the entities from a text
+    """
+    list_entities= []
+    for ent in nlp(text).ents:
+        list_entities.append(ent.label_)
+    return(list_entities)
