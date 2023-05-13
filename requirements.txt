@@ -10,3 +10,4 @@ seaborn==0.11.0
 spacy==3.4.1
 stanza==1.5.0
 wordcloud==1.8.1
+Wikipedia-API==0.5.8
