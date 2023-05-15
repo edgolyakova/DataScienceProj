@@ -1,6 +1,0 @@
-The 50 most frequents word of the subcategory "Astronauts" :
-['space', 'mission', 'flight', 'nasa', 'astronaut', 'soyuz', 'station', 'cosmonaut', 'crew', 'russian', 'air', 'training', 'university', 'pilot', 'born', 'shuttle', 'school', 'soviet', 'science', 'force', 'international', 'iss', 'hours', 'research', 'expedition', 'served', 'time', 'aboard', 'earth', 'career', 'center', 'medal', 'selected', 'april', 'october', 'test', 'life', 'order', 'september', 'program', 'american', 'days', 'commander', 'member', 'mir', 'astronauts', 'degree', 'engineer', 'gagarin', 'later']
-
-The 50 most frequents word of the subcategory "Writers" :
-['university', 'published', 'book', 'life', 'de', 'born', 'new', 'women', 'film', 'references', 'works', 'writer', 'books', 'novel', 'international', 'school', 'world', 'years', 'wrote', 'award', 'al', 'literature', 'prize', 'isbn', 'english', 'national', 'work', 'literary', 'author', 'member', 'career', 'later', 'time', 'gbowee', 'peace', 'year', 'children', 'worked', 'early', 'war', 'political', 'london', 'writing', 'series', 'family', 'language', 'history', 'college', 'education', '2011']
-
