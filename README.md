@@ -9,7 +9,8 @@
 
 1. All scrapped article are stored in the corresponding folders, `Writers` or `Astronauts`.
 2. `Data` folder contains: 
-	- a DataFrame with a random sample of 200 writers and 200 astronaut articles (`df_with_texts.csv`);
+	- a DataFrame with a random sample of 200 writer and 200 astronaut articles (`df_with_texts.csv`);
+	- a DataFrame with a random sample of 400 writer and 400 astronaut articles (`df_with_texts_800.csv`);
 	- a DataFrame with a list of all writers with their subcategory (`all_writers_list.csv`);
 	- a DataFrame with a list of all astronauts with their subcategory (`all_astronauts_list.csv`).
 3. `FrequentWords` contains the following:
