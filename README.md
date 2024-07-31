@@ -1,8 +1,15 @@
+# Project brief
+We investigated texts from Wikipedia articles about personalities whose professions were `Writers` or `Astronauts`.
+For this the data was scrapped for Wikipedia and processed using Spacy and Stanza.
+The project compares differences between Writers and Astronauts articles: which articles are longer and what words are appearing more frequently in one type of the articles or another.
+Additionally, we compare Stanza and Spacy tokenization and highlight the differences in the segmentation and PoS tagging.
+
+
 # Running instructions
 
 1. Please install all the needed packages from `requirements.txt`.
 2. The notebook `Part 0.ipynb` covers the scrapping part: extracting the articles about writers and astronauts and storing them.
-3. The notebook `Part 1.ipynb` covers the data analysis of 2 classes: number of tokens per article/sentence, most frequent words and the classification.
+3. The notebook `Part 1.ipynb` covers the data analysis of 2 classes: the number of tokens per article/sentence, most frequent words, and the classification.
 4. The notebook `Part 2.ipynb` covers the comparison of Spacy and Stanza: segmentation, tokenization, PoS tagging.
 5. The observed findings can be seen in the [report](https://github.com/edgolyakova/DataScienceProj/blob/main/Data_Science_Report.pdf).
 
