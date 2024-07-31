@@ -4,6 +4,7 @@
 2. The notebook `Part 0.ipynb` covers the scrapping part: extracting the articles about writers and astronauts and storing them.
 3. The notebook `Part 1.ipynb` covers the data analysis of 2 classes: number of tokens per article/sentence, most frequent words and the classification.
 4. The notebook `Part 2.ipynb` covers the comparison of Spacy and Stanza: segmentation, tokenization, PoS tagging.
+5. The observed findings can be seen in the [report](https://github.com/edgolyakova/DataScienceProj/blob/main/Data_Science_Report.pdf).
 
 # Folder structure
 
